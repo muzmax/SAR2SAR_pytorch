@@ -1,0 +1,802 @@
+2021-08-09 19:02:18,148 - INFO - logger set up
+2021-08-09 19:02:18,151 - INFO - Model not found in ./pipeline/out/supervised_only. Starting to train a model from scratch...
+2021-08-09 19:02:18,740 - INFO - [0.5837349891662598 s] Epoch 0. Train step 0. Loss 2.4139294624328613. Loss log likelihood 0. Loss perceptual 2.4139294624328613
+2021-08-09 19:02:31,942 - INFO - [13.785641431808472 s] Epoch 0. Train step 100. Loss 0.16758114099502563. Loss log likelihood 0. Loss perceptual 0.16758114099502563
+2021-08-09 19:02:45,145 - INFO - [26.988840341567993 s] Epoch 0. Train step 200. Loss 0.2259805053472519. Loss log likelihood 0. Loss perceptual 0.2259805053472519
+2021-08-09 19:02:58,331 - INFO - [40.174851417541504 s] Epoch 0. Train step 300. Loss 0.15104764699935913. Loss log likelihood 0. Loss perceptual 0.15104764699935913
+2021-08-09 19:03:11,544 - INFO - [53.387611627578735 s] Epoch 0. Train step 400. Loss 0.191096693277359. Loss log likelihood 0. Loss perceptual 0.191096693277359
+2021-08-09 19:03:24,728 - INFO - [66.5710802078247 s] Epoch 0. Train step 500. Loss 0.16490218043327332. Loss log likelihood 0. Loss perceptual 0.16490218043327332
+2021-08-09 19:03:37,894 - INFO - [79.73704743385315 s] Epoch 0. Train step 600. Loss 0.14900411665439606. Loss log likelihood 0. Loss perceptual 0.14900411665439606
+2021-08-09 19:03:51,060 - INFO - [92.90346050262451 s] Epoch 0. Train step 700. Loss 0.21832892298698425. Loss log likelihood 0. Loss perceptual 0.21832892298698425
+2021-08-09 19:04:04,247 - INFO - [106.09088563919067 s] Epoch 0. Train step 800. Loss 0.17837172746658325. Loss log likelihood 0. Loss perceptual 0.17837172746658325
+2021-08-09 19:04:17,444 - INFO - [119.2871105670929 s] Epoch 0. Train step 900. Loss 0.19688943028450012. Loss log likelihood 0. Loss perceptual 0.19688943028450012
+2021-08-09 19:04:30,616 - INFO - [132.45935249328613 s] Epoch 0. Train step 1000. Loss 0.17082586884498596. Loss log likelihood 0. Loss perceptual 0.17082586884498596
+2021-08-09 19:04:43,778 - INFO - [145.62168788909912 s] Epoch 0. Train step 1100. Loss 0.16617481410503387. Loss log likelihood 0. Loss perceptual 0.16617481410503387
+2021-08-09 19:04:50,491 - INFO - Training Epoch 0 has completed. Time: 152.3348104953766
+2021-08-09 19:04:52,883 - INFO - [2.3905835151672363 s] Epoch 0. Evaluation step 0
+2021-08-09 19:04:59,084 - INFO - Evaluation Epoch 0 has completed. Time: 8.591877698898315
+2021-08-09 19:04:59,130 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_0
+2021-08-09 19:04:59,275 - INFO - [0.1441645622253418 s] Epoch 1. Train step 0. Loss 0.19066235423088074. Loss log likelihood 0. Loss perceptual 0.19066235423088074
+2021-08-09 19:05:12,465 - INFO - [13.334352493286133 s] Epoch 1. Train step 100. Loss 0.1627858579158783. Loss log likelihood 0. Loss perceptual 0.1627858579158783
+2021-08-09 19:05:25,629 - INFO - [26.498374700546265 s] Epoch 1. Train step 200. Loss 0.1384253203868866. Loss log likelihood 0. Loss perceptual 0.1384253203868866
+2021-08-09 19:05:38,776 - INFO - [39.645447969436646 s] Epoch 1. Train step 300. Loss 0.20456558465957642. Loss log likelihood 0. Loss perceptual 0.20456558465957642
+2021-08-09 19:05:51,911 - INFO - [52.77973937988281 s] Epoch 1. Train step 400. Loss 0.1760982871055603. Loss log likelihood 0. Loss perceptual 0.1760982871055603
+2021-08-09 19:06:05,030 - INFO - [65.89881157875061 s] Epoch 1. Train step 500. Loss 0.14374279975891113. Loss log likelihood 0. Loss perceptual 0.14374279975891113
+2021-08-09 19:06:18,133 - INFO - [79.00199246406555 s] Epoch 1. Train step 600. Loss 0.20882150530815125. Loss log likelihood 0. Loss perceptual 0.20882150530815125
+2021-08-09 19:06:31,245 - INFO - [92.11416554450989 s] Epoch 1. Train step 700. Loss 0.18522392213344574. Loss log likelihood 0. Loss perceptual 0.18522392213344574
+2021-08-09 19:06:44,346 - INFO - [105.21513271331787 s] Epoch 1. Train step 800. Loss 0.20696082711219788. Loss log likelihood 0. Loss perceptual 0.20696082711219788
+2021-08-09 19:06:57,442 - INFO - [118.31130981445312 s] Epoch 1. Train step 900. Loss 0.1644049733877182. Loss log likelihood 0. Loss perceptual 0.1644049733877182
+2021-08-09 19:07:10,542 - INFO - [131.41056990623474 s] Epoch 1. Train step 1000. Loss 0.183133065700531. Loss log likelihood 0. Loss perceptual 0.183133065700531
+2021-08-09 19:07:23,637 - INFO - [144.50560903549194 s] Epoch 1. Train step 1100. Loss 0.25201499462127686. Loss log likelihood 0. Loss perceptual 0.25201499462127686
+2021-08-09 19:07:30,308 - INFO - Training Epoch 1 has completed. Time: 151.17711567878723
+2021-08-09 19:07:32,607 - INFO - [2.2978951930999756 s] Epoch 1. Evaluation step 0
+2021-08-09 19:07:38,614 - INFO - Evaluation Epoch 1 has completed. Time: 8.305888414382935
+2021-08-09 19:07:38,661 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_1
+2021-08-09 19:07:38,809 - INFO - [0.1476898193359375 s] Epoch 2. Train step 0. Loss 0.19891929626464844. Loss log likelihood 0. Loss perceptual 0.19891929626464844
+2021-08-09 19:07:51,953 - INFO - [13.292129278182983 s] Epoch 2. Train step 100. Loss 0.1588125377893448. Loss log likelihood 0. Loss perceptual 0.1588125377893448
+2021-08-09 19:08:05,105 - INFO - [26.443933486938477 s] Epoch 2. Train step 200. Loss 0.1479853391647339. Loss log likelihood 0. Loss perceptual 0.1479853391647339
+2021-08-09 19:08:18,248 - INFO - [39.586655616760254 s] Epoch 2. Train step 300. Loss 0.21876201033592224. Loss log likelihood 0. Loss perceptual 0.21876201033592224
+2021-08-09 19:08:31,391 - INFO - [52.72939896583557 s] Epoch 2. Train step 400. Loss 0.1775701940059662. Loss log likelihood 0. Loss perceptual 0.1775701940059662
+2021-08-09 19:08:44,558 - INFO - [65.89681243896484 s] Epoch 2. Train step 500. Loss 0.17506827414035797. Loss log likelihood 0. Loss perceptual 0.17506827414035797
+2021-08-09 19:08:57,723 - INFO - [79.06187725067139 s] Epoch 2. Train step 600. Loss 0.19582606852054596. Loss log likelihood 0. Loss perceptual 0.19582606852054596
+2021-08-09 19:09:10,827 - INFO - [92.1660897731781 s] Epoch 2. Train step 700. Loss 0.18104669451713562. Loss log likelihood 0. Loss perceptual 0.18104669451713562
+2021-08-09 19:09:23,929 - INFO - [105.26829147338867 s] Epoch 2. Train step 800. Loss 0.1950751543045044. Loss log likelihood 0. Loss perceptual 0.1950751543045044
+2021-08-09 19:09:37,028 - INFO - [118.36686134338379 s] Epoch 2. Train step 900. Loss 0.17083740234375. Loss log likelihood 0. Loss perceptual 0.17083740234375
+2021-08-09 19:09:50,162 - INFO - [131.50117683410645 s] Epoch 2. Train step 1000. Loss 0.1646844893693924. Loss log likelihood 0. Loss perceptual 0.1646844893693924
+2021-08-09 19:10:03,255 - INFO - [144.59380102157593 s] Epoch 2. Train step 1100. Loss 0.21159212291240692. Loss log likelihood 0. Loss perceptual 0.21159212291240692
+2021-08-09 19:10:09,926 - INFO - Training Epoch 2 has completed. Time: 151.26447296142578
+2021-08-09 19:10:12,226 - INFO - [2.2995712757110596 s] Epoch 2. Evaluation step 0
+2021-08-09 19:10:18,233 - INFO - Evaluation Epoch 2 has completed. Time: 8.306467294692993
+2021-08-09 19:10:18,278 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_2
+2021-08-09 19:10:18,422 - INFO - [0.14311861991882324 s] Epoch 3. Train step 0. Loss 0.1575673222541809. Loss log likelihood 0. Loss perceptual 0.1575673222541809
+2021-08-09 19:10:31,545 - INFO - [13.266230344772339 s] Epoch 3. Train step 100. Loss 0.16612714529037476. Loss log likelihood 0. Loss perceptual 0.16612714529037476
+2021-08-09 19:10:44,658 - INFO - [26.378742218017578 s] Epoch 3. Train step 200. Loss 0.1744532436132431. Loss log likelihood 0. Loss perceptual 0.1744532436132431
+2021-08-09 19:10:57,759 - INFO - [39.479923486709595 s] Epoch 3. Train step 300. Loss 0.15240004658699036. Loss log likelihood 0. Loss perceptual 0.15240004658699036
+2021-08-09 19:11:10,850 - INFO - [52.57060766220093 s] Epoch 3. Train step 400. Loss 0.16041068732738495. Loss log likelihood 0. Loss perceptual 0.16041068732738495
+2021-08-09 19:11:23,945 - INFO - [65.6659836769104 s] Epoch 3. Train step 500. Loss 0.17931924760341644. Loss log likelihood 0. Loss perceptual 0.17931924760341644
+2021-08-09 19:11:37,026 - INFO - [78.74672174453735 s] Epoch 3. Train step 600. Loss 0.1737593114376068. Loss log likelihood 0. Loss perceptual 0.1737593114376068
+2021-08-09 19:11:50,126 - INFO - [91.84710192680359 s] Epoch 3. Train step 700. Loss 0.19278493523597717. Loss log likelihood 0. Loss perceptual 0.19278493523597717
+2021-08-09 19:12:03,259 - INFO - [104.98032355308533 s] Epoch 3. Train step 800. Loss 0.17485716938972473. Loss log likelihood 0. Loss perceptual 0.17485716938972473
+2021-08-09 19:12:16,362 - INFO - [118.08287119865417 s] Epoch 3. Train step 900. Loss 0.16807422041893005. Loss log likelihood 0. Loss perceptual 0.16807422041893005
+2021-08-09 19:12:29,463 - INFO - [131.1835653781891 s] Epoch 3. Train step 1000. Loss 0.1558469831943512. Loss log likelihood 0. Loss perceptual 0.1558469831943512
+2021-08-09 19:12:42,565 - INFO - [144.2859981060028 s] Epoch 3. Train step 1100. Loss 0.1992693990468979. Loss log likelihood 0. Loss perceptual 0.1992693990468979
+2021-08-09 19:12:49,250 - INFO - Training Epoch 3 has completed. Time: 150.97052359580994
+2021-08-09 19:12:51,554 - INFO - [2.3041090965270996 s] Epoch 3. Evaluation step 0
+2021-08-09 19:12:57,561 - INFO - Evaluation Epoch 3 has completed. Time: 8.311240911483765
+2021-08-09 19:12:57,608 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_3
+2021-08-09 19:12:57,751 - INFO - [0.14234042167663574 s] Epoch 4. Train step 0. Loss 0.1650882512331009. Loss log likelihood 0. Loss perceptual 0.1650882512331009
+2021-08-09 19:13:10,841 - INFO - [13.232582807540894 s] Epoch 4. Train step 100. Loss 0.18137159943580627. Loss log likelihood 0. Loss perceptual 0.18137159943580627
+2021-08-09 19:13:23,955 - INFO - [26.345806121826172 s] Epoch 4. Train step 200. Loss 0.18051141500473022. Loss log likelihood 0. Loss perceptual 0.18051141500473022
+2021-08-09 19:13:37,086 - INFO - [39.47676420211792 s] Epoch 4. Train step 300. Loss 0.19317194819450378. Loss log likelihood 0. Loss perceptual 0.19317194819450378
+2021-08-09 19:13:50,236 - INFO - [52.626784324645996 s] Epoch 4. Train step 400. Loss 0.17508335411548615. Loss log likelihood 0. Loss perceptual 0.17508335411548615
+2021-08-09 19:14:03,402 - INFO - [65.79282999038696 s] Epoch 4. Train step 500. Loss 0.1614900678396225. Loss log likelihood 0. Loss perceptual 0.1614900678396225
+2021-08-09 19:14:16,585 - INFO - [78.97642779350281 s] Epoch 4. Train step 600. Loss 0.17126698791980743. Loss log likelihood 0. Loss perceptual 0.17126698791980743
+2021-08-09 19:14:29,695 - INFO - [92.08584547042847 s] Epoch 4. Train step 700. Loss 0.1952521800994873. Loss log likelihood 0. Loss perceptual 0.1952521800994873
+2021-08-09 19:14:42,809 - INFO - [105.20003533363342 s] Epoch 4. Train step 800. Loss 0.18640249967575073. Loss log likelihood 0. Loss perceptual 0.18640249967575073
+2021-08-09 19:14:55,932 - INFO - [118.32323837280273 s] Epoch 4. Train step 900. Loss 0.16898122429847717. Loss log likelihood 0. Loss perceptual 0.16898122429847717
+2021-08-09 19:15:09,111 - INFO - [131.5020043849945 s] Epoch 4. Train step 1000. Loss 0.1722324788570404. Loss log likelihood 0. Loss perceptual 0.1722324788570404
+2021-08-09 19:15:22,426 - INFO - [144.81689548492432 s] Epoch 4. Train step 1100. Loss 0.19874612987041473. Loss log likelihood 0. Loss perceptual 0.19874612987041473
+2021-08-09 19:15:29,222 - INFO - Training Epoch 4 has completed. Time: 151.61355590820312
+2021-08-09 19:15:31,527 - INFO - [2.3045127391815186 s] Epoch 4. Evaluation step 0
+2021-08-09 19:15:37,536 - INFO - Evaluation Epoch 4 has completed. Time: 8.313012599945068
+2021-08-09 19:15:37,581 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_4
+2021-08-09 19:15:37,729 - INFO - [0.146742582321167 s] Epoch 5. Train step 0. Loss 0.13454091548919678. Loss log likelihood 0. Loss perceptual 0.13454091548919678
+2021-08-09 19:15:51,071 - INFO - [13.489021062850952 s] Epoch 5. Train step 100. Loss 0.1207246333360672. Loss log likelihood 0. Loss perceptual 0.1207246333360672
+2021-08-09 19:16:04,435 - INFO - [26.85272240638733 s] Epoch 5. Train step 200. Loss 0.1760241687297821. Loss log likelihood 0. Loss perceptual 0.1760241687297821
+2021-08-09 19:16:17,760 - INFO - [40.177751541137695 s] Epoch 5. Train step 300. Loss 0.16309714317321777. Loss log likelihood 0. Loss perceptual 0.16309714317321777
+2021-08-09 19:16:31,082 - INFO - [53.499613523483276 s] Epoch 5. Train step 400. Loss 0.1767163872718811. Loss log likelihood 0. Loss perceptual 0.1767163872718811
+2021-08-09 19:16:44,397 - INFO - [66.81469297409058 s] Epoch 5. Train step 500. Loss 0.1686018705368042. Loss log likelihood 0. Loss perceptual 0.1686018705368042
+2021-08-09 19:16:57,758 - INFO - [80.17619037628174 s] Epoch 5. Train step 600. Loss 0.1267261952161789. Loss log likelihood 0. Loss perceptual 0.1267261952161789
+2021-08-09 19:17:11,139 - INFO - [93.5569679737091 s] Epoch 5. Train step 700. Loss 0.15181495249271393. Loss log likelihood 0. Loss perceptual 0.15181495249271393
+2021-08-09 19:17:24,552 - INFO - [106.96980857849121 s] Epoch 5. Train step 800. Loss 0.19620352983474731. Loss log likelihood 0. Loss perceptual 0.19620352983474731
+2021-08-09 19:17:37,889 - INFO - [120.30701637268066 s] Epoch 5. Train step 900. Loss 0.15798328816890717. Loss log likelihood 0. Loss perceptual 0.15798328816890717
+2021-08-09 19:17:51,315 - INFO - [133.73280596733093 s] Epoch 5. Train step 1000. Loss 0.19803106784820557. Loss log likelihood 0. Loss perceptual 0.19803106784820557
+2021-08-09 19:18:04,685 - INFO - [147.1030249595642 s] Epoch 5. Train step 1100. Loss 0.16757965087890625. Loss log likelihood 0. Loss perceptual 0.16757965087890625
+2021-08-09 19:18:11,521 - INFO - Training Epoch 5 has completed. Time: 153.93882155418396
+2021-08-09 19:18:13,821 - INFO - [2.2991647720336914 s] Epoch 5. Evaluation step 0
+2021-08-09 19:18:19,832 - INFO - Evaluation Epoch 5 has completed. Time: 8.309952735900879
+2021-08-09 19:18:19,877 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_5
+2021-08-09 19:18:20,024 - INFO - [0.14686918258666992 s] Epoch 6. Train step 0. Loss 0.17810353636741638. Loss log likelihood 0. Loss perceptual 0.17810353636741638
+2021-08-09 19:18:33,424 - INFO - [13.546055555343628 s] Epoch 6. Train step 100. Loss 0.15390148758888245. Loss log likelihood 0. Loss perceptual 0.15390148758888245
+2021-08-09 19:18:46,809 - INFO - [26.931883335113525 s] Epoch 6. Train step 200. Loss 0.2062651365995407. Loss log likelihood 0. Loss perceptual 0.2062651365995407
+2021-08-09 19:19:00,124 - INFO - [40.24618101119995 s] Epoch 6. Train step 300. Loss 0.12853270769119263. Loss log likelihood 0. Loss perceptual 0.12853270769119263
+2021-08-09 19:19:13,296 - INFO - [53.417943239212036 s] Epoch 6. Train step 400. Loss 0.21173541247844696. Loss log likelihood 0. Loss perceptual 0.21173541247844696
+2021-08-09 19:19:26,417 - INFO - [66.5395348072052 s] Epoch 6. Train step 500. Loss 0.18105559051036835. Loss log likelihood 0. Loss perceptual 0.18105559051036835
+2021-08-09 19:19:39,582 - INFO - [79.70434212684631 s] Epoch 6. Train step 600. Loss 0.21624475717544556. Loss log likelihood 0. Loss perceptual 0.21624475717544556
+2021-08-09 19:19:52,742 - INFO - [92.86393594741821 s] Epoch 6. Train step 700. Loss 0.20523737370967865. Loss log likelihood 0. Loss perceptual 0.20523737370967865
+2021-08-09 19:20:05,946 - INFO - [106.06850695610046 s] Epoch 6. Train step 800. Loss 0.17680954933166504. Loss log likelihood 0. Loss perceptual 0.17680954933166504
+2021-08-09 19:20:19,148 - INFO - [119.27014327049255 s] Epoch 6. Train step 900. Loss 0.20673653483390808. Loss log likelihood 0. Loss perceptual 0.20673653483390808
+2021-08-09 19:20:32,263 - INFO - [132.3851420879364 s] Epoch 6. Train step 1000. Loss 0.17036274075508118. Loss log likelihood 0. Loss perceptual 0.17036274075508118
+2021-08-09 19:20:45,446 - INFO - [145.56841921806335 s] Epoch 6. Train step 1100. Loss 0.17886362969875336. Loss log likelihood 0. Loss perceptual 0.17886362969875336
+2021-08-09 19:20:52,173 - INFO - Training Epoch 6 has completed. Time: 152.295179605484
+2021-08-09 19:20:54,473 - INFO - [2.30014967918396 s] Epoch 6. Evaluation step 0
+2021-08-09 19:21:00,486 - INFO - Evaluation Epoch 6 has completed. Time: 8.312816619873047
+2021-08-09 19:21:00,531 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_6
+2021-08-09 19:21:00,679 - INFO - [0.14757204055786133 s] Epoch 7. Train step 0. Loss 0.15397197008132935. Loss log likelihood 0. Loss perceptual 0.15397197008132935
+2021-08-09 19:21:13,905 - INFO - [13.373524904251099 s] Epoch 7. Train step 100. Loss 0.1604520082473755. Loss log likelihood 0. Loss perceptual 0.1604520082473755
+2021-08-09 19:21:27,126 - INFO - [26.594141244888306 s] Epoch 7. Train step 200. Loss 0.18244321644306183. Loss log likelihood 0. Loss perceptual 0.18244321644306183
+2021-08-09 19:21:40,354 - INFO - [39.8223991394043 s] Epoch 7. Train step 300. Loss 0.14346541464328766. Loss log likelihood 0. Loss perceptual 0.14346541464328766
+2021-08-09 19:21:53,507 - INFO - [52.97542381286621 s] Epoch 7. Train step 400. Loss 0.1803799569606781. Loss log likelihood 0. Loss perceptual 0.1803799569606781
+2021-08-09 19:22:06,799 - INFO - [66.2672848701477 s] Epoch 7. Train step 500. Loss 0.13825756311416626. Loss log likelihood 0. Loss perceptual 0.13825756311416626
+2021-08-09 19:22:19,969 - INFO - [79.43773698806763 s] Epoch 7. Train step 600. Loss 0.2073439061641693. Loss log likelihood 0. Loss perceptual 0.2073439061641693
+2021-08-09 19:22:33,151 - INFO - [92.61997747421265 s] Epoch 7. Train step 700. Loss 0.17468944191932678. Loss log likelihood 0. Loss perceptual 0.17468944191932678
+2021-08-09 19:22:46,327 - INFO - [105.79580426216125 s] Epoch 7. Train step 800. Loss 0.1357007473707199. Loss log likelihood 0. Loss perceptual 0.1357007473707199
+2021-08-09 19:22:59,510 - INFO - [118.97872734069824 s] Epoch 7. Train step 900. Loss 0.17748776078224182. Loss log likelihood 0. Loss perceptual 0.17748776078224182
+2021-08-09 19:23:12,731 - INFO - [132.19964957237244 s] Epoch 7. Train step 1000. Loss 0.1949443817138672. Loss log likelihood 0. Loss perceptual 0.1949443817138672
+2021-08-09 19:23:25,939 - INFO - [145.40801882743835 s] Epoch 7. Train step 1100. Loss 0.1802252233028412. Loss log likelihood 0. Loss perceptual 0.1802252233028412
+2021-08-09 19:23:32,713 - INFO - Training Epoch 7 has completed. Time: 152.18144583702087
+2021-08-09 19:23:35,017 - INFO - [2.3031909465789795 s] Epoch 7. Evaluation step 0
+2021-08-09 19:23:41,028 - INFO - Evaluation Epoch 7 has completed. Time: 8.314948797225952
+2021-08-09 19:23:41,073 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_7
+2021-08-09 19:23:41,218 - INFO - [0.14407920837402344 s] Epoch 8. Train step 0. Loss 0.1983320713043213. Loss log likelihood 0. Loss perceptual 0.1983320713043213
+2021-08-09 19:23:54,487 - INFO - [13.413565158843994 s] Epoch 8. Train step 100. Loss 0.2108408510684967. Loss log likelihood 0. Loss perceptual 0.2108408510684967
+2021-08-09 19:24:07,661 - INFO - [26.587491750717163 s] Epoch 8. Train step 200. Loss 0.1737465262413025. Loss log likelihood 0. Loss perceptual 0.1737465262413025
+2021-08-09 19:24:20,874 - INFO - [39.79976940155029 s] Epoch 8. Train step 300. Loss 0.16432040929794312. Loss log likelihood 0. Loss perceptual 0.16432040929794312
+2021-08-09 19:24:34,058 - INFO - [52.98419165611267 s] Epoch 8. Train step 400. Loss 0.1377863883972168. Loss log likelihood 0. Loss perceptual 0.1377863883972168
+2021-08-09 19:24:47,333 - INFO - [66.25953531265259 s] Epoch 8. Train step 500. Loss 0.17212796211242676. Loss log likelihood 0. Loss perceptual 0.17212796211242676
+2021-08-09 19:25:00,634 - INFO - [79.56041288375854 s] Epoch 8. Train step 600. Loss 0.15056931972503662. Loss log likelihood 0. Loss perceptual 0.15056931972503662
+2021-08-09 19:25:13,862 - INFO - [92.78807258605957 s] Epoch 8. Train step 700. Loss 0.15865227580070496. Loss log likelihood 0. Loss perceptual 0.15865227580070496
+2021-08-09 19:25:27,121 - INFO - [106.0474464893341 s] Epoch 8. Train step 800. Loss 0.18201324343681335. Loss log likelihood 0. Loss perceptual 0.18201324343681335
+2021-08-09 19:25:40,233 - INFO - [119.15880060195923 s] Epoch 8. Train step 900. Loss 0.15700390934944153. Loss log likelihood 0. Loss perceptual 0.15700390934944153
+2021-08-09 19:25:53,466 - INFO - [132.39200687408447 s] Epoch 8. Train step 1000. Loss 0.18179313838481903. Loss log likelihood 0. Loss perceptual 0.18179313838481903
+2021-08-09 19:26:06,662 - INFO - [145.58783769607544 s] Epoch 8. Train step 1100. Loss 0.2018907368183136. Loss log likelihood 0. Loss perceptual 0.2018907368183136
+2021-08-09 19:26:13,431 - INFO - Training Epoch 8 has completed. Time: 152.35734295845032
+2021-08-09 19:26:15,731 - INFO - [2.2990517616271973 s] Epoch 8. Evaluation step 0
+2021-08-09 19:26:21,745 - INFO - Evaluation Epoch 8 has completed. Time: 8.31345534324646
+2021-08-09 19:26:21,791 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_8
+2021-08-09 19:26:21,931 - INFO - [0.1398158073425293 s] Epoch 9. Train step 0. Loss 0.20319128036499023. Loss log likelihood 0. Loss perceptual 0.20319128036499023
+2021-08-09 19:26:35,071 - INFO - [13.279136657714844 s] Epoch 9. Train step 100. Loss 0.14731428027153015. Loss log likelihood 0. Loss perceptual 0.14731428027153015
+2021-08-09 19:26:48,327 - INFO - [26.53499984741211 s] Epoch 9. Train step 200. Loss 0.18649066984653473. Loss log likelihood 0. Loss perceptual 0.18649066984653473
+2021-08-09 19:27:01,742 - INFO - [39.95034337043762 s] Epoch 9. Train step 300. Loss 0.19105321168899536. Loss log likelihood 0. Loss perceptual 0.19105321168899536
+2021-08-09 19:27:15,116 - INFO - [53.32420301437378 s] Epoch 9. Train step 400. Loss 0.17247885465621948. Loss log likelihood 0. Loss perceptual 0.17247885465621948
+2021-08-09 19:27:28,501 - INFO - [66.70934295654297 s] Epoch 9. Train step 500. Loss 0.1473352313041687. Loss log likelihood 0. Loss perceptual 0.1473352313041687
+2021-08-09 19:27:41,899 - INFO - [80.10755777359009 s] Epoch 9. Train step 600. Loss 0.1343848705291748. Loss log likelihood 0. Loss perceptual 0.1343848705291748
+2021-08-09 19:27:55,308 - INFO - [93.5164864063263 s] Epoch 9. Train step 700. Loss 0.1990126669406891. Loss log likelihood 0. Loss perceptual 0.1990126669406891
+2021-08-09 19:28:08,708 - INFO - [106.9163863658905 s] Epoch 9. Train step 800. Loss 0.18482662737369537. Loss log likelihood 0. Loss perceptual 0.18482662737369537
+2021-08-09 19:28:22,115 - INFO - [120.3232204914093 s] Epoch 9. Train step 900. Loss 0.19962754845619202. Loss log likelihood 0. Loss perceptual 0.19962754845619202
+2021-08-09 19:28:35,435 - INFO - [133.64381623268127 s] Epoch 9. Train step 1000. Loss 0.19095884263515472. Loss log likelihood 0. Loss perceptual 0.19095884263515472
+2021-08-09 19:28:48,822 - INFO - [147.02988052368164 s] Epoch 9. Train step 1100. Loss 0.1334509253501892. Loss log likelihood 0. Loss perceptual 0.1334509253501892
+2021-08-09 19:28:55,713 - INFO - Training Epoch 9 has completed. Time: 153.92135787010193
+2021-08-09 19:28:58,011 - INFO - [2.297722816467285 s] Epoch 9. Evaluation step 0
+2021-08-09 19:29:04,022 - INFO - Evaluation Epoch 9 has completed. Time: 8.308526992797852
+2021-08-09 19:29:04,068 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_9
+2021-08-09 19:29:04,215 - INFO - [0.14615845680236816 s] Epoch 10. Train step 0. Loss 0.16102218627929688. Loss log likelihood 0. Loss perceptual 0.16102218627929688
+2021-08-09 19:29:17,634 - INFO - [13.565255165100098 s] Epoch 10. Train step 100. Loss 0.1543729305267334. Loss log likelihood 0. Loss perceptual 0.1543729305267334
+2021-08-09 19:29:31,003 - INFO - [26.93439769744873 s] Epoch 10. Train step 200. Loss 0.12886105477809906. Loss log likelihood 0. Loss perceptual 0.12886105477809906
+2021-08-09 19:29:44,357 - INFO - [40.28805375099182 s] Epoch 10. Train step 300. Loss 0.21600991487503052. Loss log likelihood 0. Loss perceptual 0.21600991487503052
+2021-08-09 19:29:57,768 - INFO - [53.69890356063843 s] Epoch 10. Train step 400. Loss 0.15922710299491882. Loss log likelihood 0. Loss perceptual 0.15922710299491882
+2021-08-09 19:30:11,144 - INFO - [67.07514572143555 s] Epoch 10. Train step 500. Loss 0.20311212539672852. Loss log likelihood 0. Loss perceptual 0.20311212539672852
+2021-08-09 19:30:24,497 - INFO - [80.42833709716797 s] Epoch 10. Train step 600. Loss 0.17486602067947388. Loss log likelihood 0. Loss perceptual 0.17486602067947388
+2021-08-09 19:30:37,859 - INFO - [93.79009175300598 s] Epoch 10. Train step 700. Loss 0.14415240287780762. Loss log likelihood 0. Loss perceptual 0.14415240287780762
+2021-08-09 19:30:51,245 - INFO - [107.17661809921265 s] Epoch 10. Train step 800. Loss 0.16920864582061768. Loss log likelihood 0. Loss perceptual 0.16920864582061768
+2021-08-09 19:31:04,710 - INFO - [120.64141321182251 s] Epoch 10. Train step 900. Loss 0.1934821754693985. Loss log likelihood 0. Loss perceptual 0.1934821754693985
+2021-08-09 19:31:18,084 - INFO - [134.01498985290527 s] Epoch 10. Train step 1000. Loss 0.1715986430644989. Loss log likelihood 0. Loss perceptual 0.1715986430644989
+2021-08-09 19:31:31,421 - INFO - [147.35255098342896 s] Epoch 10. Train step 1100. Loss 0.13982000946998596. Loss log likelihood 0. Loss perceptual 0.13982000946998596
+2021-08-09 19:31:38,264 - INFO - Training Epoch 10 has completed. Time: 154.19548797607422
+2021-08-09 19:31:40,570 - INFO - [2.305104970932007 s] Epoch 10. Evaluation step 0
+2021-08-09 19:31:46,579 - INFO - Evaluation Epoch 10 has completed. Time: 8.313814401626587
+2021-08-09 19:31:46,624 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_10
+2021-08-09 19:31:46,773 - INFO - [0.14815306663513184 s] Epoch 11. Train step 0. Loss 0.15958279371261597. Loss log likelihood 0. Loss perceptual 0.15958279371261597
+2021-08-09 19:32:00,163 - INFO - [13.538583993911743 s] Epoch 11. Train step 100. Loss 0.1533139944076538. Loss log likelihood 0. Loss perceptual 0.1533139944076538
+2021-08-09 19:32:13,576 - INFO - [26.951693296432495 s] Epoch 11. Train step 200. Loss 0.14127656817436218. Loss log likelihood 0. Loss perceptual 0.14127656817436218
+2021-08-09 19:32:26,932 - INFO - [40.30769062042236 s] Epoch 11. Train step 300. Loss 0.18378806114196777. Loss log likelihood 0. Loss perceptual 0.18378806114196777
+2021-08-09 19:32:40,367 - INFO - [53.742088317871094 s] Epoch 11. Train step 400. Loss 0.12187481671571732. Loss log likelihood 0. Loss perceptual 0.12187481671571732
+2021-08-09 19:32:53,720 - INFO - [67.09564423561096 s] Epoch 11. Train step 500. Loss 0.18328675627708435. Loss log likelihood 0. Loss perceptual 0.18328675627708435
+2021-08-09 19:33:07,174 - INFO - [80.54910278320312 s] Epoch 11. Train step 600. Loss 0.14771978557109833. Loss log likelihood 0. Loss perceptual 0.14771978557109833
+2021-08-09 19:33:20,640 - INFO - [94.0150146484375 s] Epoch 11. Train step 700. Loss 0.17704632878303528. Loss log likelihood 0. Loss perceptual 0.17704632878303528
+2021-08-09 19:33:34,026 - INFO - [107.40152263641357 s] Epoch 11. Train step 800. Loss 0.15260125696659088. Loss log likelihood 0. Loss perceptual 0.15260125696659088
+2021-08-09 19:33:47,396 - INFO - [120.77144956588745 s] Epoch 11. Train step 900. Loss 0.1975652426481247. Loss log likelihood 0. Loss perceptual 0.1975652426481247
+2021-08-09 19:34:00,793 - INFO - [134.16838955879211 s] Epoch 11. Train step 1000. Loss 0.22493526339530945. Loss log likelihood 0. Loss perceptual 0.22493526339530945
+2021-08-09 19:34:14,147 - INFO - [147.52212190628052 s] Epoch 11. Train step 1100. Loss 0.16198435425758362. Loss log likelihood 0. Loss perceptual 0.16198435425758362
+2021-08-09 19:34:20,925 - INFO - Training Epoch 11 has completed. Time: 154.3010492324829
+2021-08-09 19:34:23,230 - INFO - [2.3043482303619385 s] Epoch 11. Evaluation step 0
+2021-08-09 19:34:29,238 - INFO - Evaluation Epoch 11 has completed. Time: 8.312192678451538
+2021-08-09 19:34:29,284 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_11
+2021-08-09 19:34:29,433 - INFO - [0.1481611728668213 s] Epoch 12. Train step 0. Loss 0.22266268730163574. Loss log likelihood 0. Loss perceptual 0.22266268730163574
+2021-08-09 19:34:42,883 - INFO - [13.598564624786377 s] Epoch 12. Train step 100. Loss 0.1703934371471405. Loss log likelihood 0. Loss perceptual 0.1703934371471405
+2021-08-09 19:34:56,222 - INFO - [26.93706750869751 s] Epoch 12. Train step 200. Loss 0.17820164561271667. Loss log likelihood 0. Loss perceptual 0.17820164561271667
+2021-08-09 19:35:09,600 - INFO - [40.31600260734558 s] Epoch 12. Train step 300. Loss 0.18890798091888428. Loss log likelihood 0. Loss perceptual 0.18890798091888428
+2021-08-09 19:35:23,064 - INFO - [53.77980041503906 s] Epoch 12. Train step 400. Loss 0.16822628676891327. Loss log likelihood 0. Loss perceptual 0.16822628676891327
+2021-08-09 19:35:36,419 - INFO - [67.13462162017822 s] Epoch 12. Train step 500. Loss 0.1678754985332489. Loss log likelihood 0. Loss perceptual 0.1678754985332489
+2021-08-09 19:35:49,817 - INFO - [80.53204822540283 s] Epoch 12. Train step 600. Loss 0.2002417892217636. Loss log likelihood 0. Loss perceptual 0.2002417892217636
+2021-08-09 19:36:03,179 - INFO - [93.89481163024902 s] Epoch 12. Train step 700. Loss 0.1590447723865509. Loss log likelihood 0. Loss perceptual 0.1590447723865509
+2021-08-09 19:36:16,631 - INFO - [107.34650826454163 s] Epoch 12. Train step 800. Loss 0.19487155973911285. Loss log likelihood 0. Loss perceptual 0.19487155973911285
+2021-08-09 19:36:30,051 - INFO - [120.76646780967712 s] Epoch 12. Train step 900. Loss 0.19340497255325317. Loss log likelihood 0. Loss perceptual 0.19340497255325317
+2021-08-09 19:36:43,515 - INFO - [134.2306423187256 s] Epoch 12. Train step 1000. Loss 0.14030469954013824. Loss log likelihood 0. Loss perceptual 0.14030469954013824
+2021-08-09 19:36:56,979 - INFO - [147.69449853897095 s] Epoch 12. Train step 1100. Loss 0.2197866439819336. Loss log likelihood 0. Loss perceptual 0.2197866439819336
+2021-08-09 19:37:03,806 - INFO - Training Epoch 12 has completed. Time: 154.52176547050476
+2021-08-09 19:37:06,111 - INFO - [2.303973913192749 s] Epoch 12. Evaluation step 0
+2021-08-09 19:37:12,127 - INFO - Evaluation Epoch 12 has completed. Time: 8.32027792930603
+2021-08-09 19:37:12,175 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_12
+2021-08-09 19:37:12,326 - INFO - [0.1506798267364502 s] Epoch 13. Train step 0. Loss 0.19915570318698883. Loss log likelihood 0. Loss perceptual 0.19915570318698883
+2021-08-09 19:37:25,674 - INFO - [13.499130487442017 s] Epoch 13. Train step 100. Loss 0.15214543044567108. Loss log likelihood 0. Loss perceptual 0.15214543044567108
+2021-08-09 19:37:39,039 - INFO - [26.863402366638184 s] Epoch 13. Train step 200. Loss 0.15889252722263336. Loss log likelihood 0. Loss perceptual 0.15889252722263336
+2021-08-09 19:37:52,488 - INFO - [40.31307554244995 s] Epoch 13. Train step 300. Loss 0.1638069748878479. Loss log likelihood 0. Loss perceptual 0.1638069748878479
+2021-08-09 19:38:05,953 - INFO - [53.777387619018555 s] Epoch 13. Train step 400. Loss 0.18776914477348328. Loss log likelihood 0. Loss perceptual 0.18776914477348328
+2021-08-09 19:38:19,349 - INFO - [67.1741771697998 s] Epoch 13. Train step 500. Loss 0.14421936869621277. Loss log likelihood 0. Loss perceptual 0.14421936869621277
+2021-08-09 19:38:32,665 - INFO - [80.48964428901672 s] Epoch 13. Train step 600. Loss 0.1436970829963684. Loss log likelihood 0. Loss perceptual 0.1436970829963684
+2021-08-09 19:38:45,983 - INFO - [93.80758833885193 s] Epoch 13. Train step 700. Loss 0.2273699939250946. Loss log likelihood 0. Loss perceptual 0.2273699939250946
+2021-08-09 19:38:59,319 - INFO - [107.14418840408325 s] Epoch 13. Train step 800. Loss 0.1457342803478241. Loss log likelihood 0. Loss perceptual 0.1457342803478241
+2021-08-09 19:39:12,620 - INFO - [120.44476628303528 s] Epoch 13. Train step 900. Loss 0.2137908637523651. Loss log likelihood 0. Loss perceptual 0.2137908637523651
+2021-08-09 19:39:25,904 - INFO - [133.72910618782043 s] Epoch 13. Train step 1000. Loss 0.15422774851322174. Loss log likelihood 0. Loss perceptual 0.15422774851322174
+2021-08-09 19:39:39,281 - INFO - [147.10577774047852 s] Epoch 13. Train step 1100. Loss 0.13890625536441803. Loss log likelihood 0. Loss perceptual 0.13890625536441803
+2021-08-09 19:39:46,071 - INFO - Training Epoch 13 has completed. Time: 153.89580965042114
+2021-08-09 19:39:48,368 - INFO - [2.296408176422119 s] Epoch 13. Evaluation step 0
+2021-08-09 19:39:54,374 - INFO - Evaluation Epoch 13 has completed. Time: 8.302146196365356
+2021-08-09 19:39:54,419 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_13
+2021-08-09 19:39:54,567 - INFO - [0.1469433307647705 s] Epoch 14. Train step 0. Loss 0.17871680855751038. Loss log likelihood 0. Loss perceptual 0.17871680855751038
+2021-08-09 19:40:07,900 - INFO - [13.480124711990356 s] Epoch 14. Train step 100. Loss 0.17188727855682373. Loss log likelihood 0. Loss perceptual 0.17188727855682373
+2021-08-09 19:40:21,258 - INFO - [26.837573051452637 s] Epoch 14. Train step 200. Loss 0.17711293697357178. Loss log likelihood 0. Loss perceptual 0.17711293697357178
+2021-08-09 19:40:34,565 - INFO - [40.14522361755371 s] Epoch 14. Train step 300. Loss 0.22148314118385315. Loss log likelihood 0. Loss perceptual 0.22148314118385315
+2021-08-09 19:40:47,866 - INFO - [53.445735931396484 s] Epoch 14. Train step 400. Loss 0.16203883290290833. Loss log likelihood 0. Loss perceptual 0.16203883290290833
+2021-08-09 19:41:01,204 - INFO - [66.78398442268372 s] Epoch 14. Train step 500. Loss 0.14727255702018738. Loss log likelihood 0. Loss perceptual 0.14727255702018738
+2021-08-09 19:41:14,531 - INFO - [80.11080837249756 s] Epoch 14. Train step 600. Loss 0.15331536531448364. Loss log likelihood 0. Loss perceptual 0.15331536531448364
+2021-08-09 19:41:27,872 - INFO - [93.45184373855591 s] Epoch 14. Train step 700. Loss 0.15330171585083008. Loss log likelihood 0. Loss perceptual 0.15330171585083008
+2021-08-09 19:41:41,355 - INFO - [106.93514609336853 s] Epoch 14. Train step 800. Loss 0.2105255424976349. Loss log likelihood 0. Loss perceptual 0.2105255424976349
+2021-08-09 19:41:54,665 - INFO - [120.2447919845581 s] Epoch 14. Train step 900. Loss 0.2110418826341629. Loss log likelihood 0. Loss perceptual 0.2110418826341629
+2021-08-09 19:42:07,988 - INFO - [133.56804180145264 s] Epoch 14. Train step 1000. Loss 0.21844059228897095. Loss log likelihood 0. Loss perceptual 0.21844059228897095
+2021-08-09 19:42:21,384 - INFO - [146.96392488479614 s] Epoch 14. Train step 1100. Loss 0.18445733189582825. Loss log likelihood 0. Loss perceptual 0.18445733189582825
+2021-08-09 19:42:28,214 - INFO - Training Epoch 14 has completed. Time: 153.7935733795166
+2021-08-09 19:42:30,515 - INFO - [2.3008646965026855 s] Epoch 14. Evaluation step 0
+2021-08-09 19:42:36,525 - INFO - Evaluation Epoch 14 has completed. Time: 8.310601234436035
+2021-08-09 19:42:36,570 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_14
+2021-08-09 19:42:36,718 - INFO - [0.14683127403259277 s] Epoch 15. Train step 0. Loss 0.14310520887374878. Loss log likelihood 0. Loss perceptual 0.14310520887374878
+2021-08-09 19:42:50,085 - INFO - [13.514106750488281 s] Epoch 15. Train step 100. Loss 0.1753508746623993. Loss log likelihood 0. Loss perceptual 0.1753508746623993
+2021-08-09 19:43:03,459 - INFO - [26.88840413093567 s] Epoch 15. Train step 200. Loss 0.18506942689418793. Loss log likelihood 0. Loss perceptual 0.18506942689418793
+2021-08-09 19:43:16,870 - INFO - [40.299314737319946 s] Epoch 15. Train step 300. Loss 0.17633336782455444. Loss log likelihood 0. Loss perceptual 0.17633336782455444
+2021-08-09 19:43:30,202 - INFO - [53.630738258361816 s] Epoch 15. Train step 400. Loss 0.18906816840171814. Loss log likelihood 0. Loss perceptual 0.18906816840171814
+2021-08-09 19:43:43,522 - INFO - [66.95070815086365 s] Epoch 15. Train step 500. Loss 0.2291705310344696. Loss log likelihood 0. Loss perceptual 0.2291705310344696
+2021-08-09 19:43:56,914 - INFO - [80.34353160858154 s] Epoch 15. Train step 600. Loss 0.17681092023849487. Loss log likelihood 0. Loss perceptual 0.17681092023849487
+2021-08-09 19:44:10,278 - INFO - [93.70691561698914 s] Epoch 15. Train step 700. Loss 0.1938021034002304. Loss log likelihood 0. Loss perceptual 0.1938021034002304
+2021-08-09 19:44:23,715 - INFO - [107.14440655708313 s] Epoch 15. Train step 800. Loss 0.21336281299591064. Loss log likelihood 0. Loss perceptual 0.21336281299591064
+2021-08-09 19:44:37,076 - INFO - [120.5049364566803 s] Epoch 15. Train step 900. Loss 0.17706917226314545. Loss log likelihood 0. Loss perceptual 0.17706917226314545
+2021-08-09 19:44:50,404 - INFO - [133.8334710597992 s] Epoch 15. Train step 1000. Loss 0.17148908972740173. Loss log likelihood 0. Loss perceptual 0.17148908972740173
+2021-08-09 19:45:03,640 - INFO - [147.0692479610443 s] Epoch 15. Train step 1100. Loss 0.1995057761669159. Loss log likelihood 0. Loss perceptual 0.1995057761669159
+2021-08-09 19:45:10,420 - INFO - Training Epoch 15 has completed. Time: 153.8490219116211
+2021-08-09 19:45:12,719 - INFO - [2.2985384464263916 s] Epoch 15. Evaluation step 0
+2021-08-09 19:45:18,727 - INFO - Evaluation Epoch 15 has completed. Time: 8.306440591812134
+2021-08-09 19:45:18,771 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_15
+2021-08-09 19:45:18,918 - INFO - [0.14643192291259766 s] Epoch 16. Train step 0. Loss 0.13411927223205566. Loss log likelihood 0. Loss perceptual 0.13411927223205566
+2021-08-09 19:45:32,394 - INFO - [13.621617555618286 s] Epoch 16. Train step 100. Loss 0.1709470897912979. Loss log likelihood 0. Loss perceptual 0.1709470897912979
+2021-08-09 19:45:45,867 - INFO - [27.094924449920654 s] Epoch 16. Train step 200. Loss 0.18347471952438354. Loss log likelihood 0. Loss perceptual 0.18347471952438354
+2021-08-09 19:45:59,343 - INFO - [40.57108187675476 s] Epoch 16. Train step 300. Loss 0.17189204692840576. Loss log likelihood 0. Loss perceptual 0.17189204692840576
+2021-08-09 19:46:12,664 - INFO - [53.89233136177063 s] Epoch 16. Train step 400. Loss 0.20532649755477905. Loss log likelihood 0. Loss perceptual 0.20532649755477905
+2021-08-09 19:46:26,030 - INFO - [67.25753664970398 s] Epoch 16. Train step 500. Loss 0.16360364854335785. Loss log likelihood 0. Loss perceptual 0.16360364854335785
+2021-08-09 19:46:39,245 - INFO - [80.47305250167847 s] Epoch 16. Train step 600. Loss 0.16035550832748413. Loss log likelihood 0. Loss perceptual 0.16035550832748413
+2021-08-09 19:46:52,604 - INFO - [93.83225965499878 s] Epoch 16. Train step 700. Loss 0.14392021298408508. Loss log likelihood 0. Loss perceptual 0.14392021298408508
+2021-08-09 19:47:05,966 - INFO - [107.19360494613647 s] Epoch 16. Train step 800. Loss 0.1689448058605194. Loss log likelihood 0. Loss perceptual 0.1689448058605194
+2021-08-09 19:47:19,190 - INFO - [120.418123960495 s] Epoch 16. Train step 900. Loss 0.2001977562904358. Loss log likelihood 0. Loss perceptual 0.2001977562904358
+2021-08-09 19:47:32,521 - INFO - [133.74916195869446 s] Epoch 16. Train step 1000. Loss 0.17791509628295898. Loss log likelihood 0. Loss perceptual 0.17791509628295898
+2021-08-09 19:47:45,866 - INFO - [147.09374451637268 s] Epoch 16. Train step 1100. Loss 0.1453830897808075. Loss log likelihood 0. Loss perceptual 0.1453830897808075
+2021-08-09 19:47:52,651 - INFO - Training Epoch 16 has completed. Time: 153.878564119339
+2021-08-09 19:47:54,952 - INFO - [2.3010878562927246 s] Epoch 16. Evaluation step 0
+2021-08-09 19:48:00,965 - INFO - Evaluation Epoch 16 has completed. Time: 8.313638925552368
+2021-08-09 19:48:01,010 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_16
+2021-08-09 19:48:01,161 - INFO - [0.1501157283782959 s] Epoch 17. Train step 0. Loss 0.18808741867542267. Loss log likelihood 0. Loss perceptual 0.18808741867542267
+2021-08-09 19:48:14,487 - INFO - [13.475963354110718 s] Epoch 17. Train step 100. Loss 0.1417008936405182. Loss log likelihood 0. Loss perceptual 0.1417008936405182
+2021-08-09 19:48:27,941 - INFO - [26.92996382713318 s] Epoch 17. Train step 200. Loss 0.19032907485961914. Loss log likelihood 0. Loss perceptual 0.19032907485961914
+2021-08-09 19:48:41,338 - INFO - [40.327075242996216 s] Epoch 17. Train step 300. Loss 0.17221063375473022. Loss log likelihood 0. Loss perceptual 0.17221063375473022
+2021-08-09 19:48:54,753 - INFO - [53.74240565299988 s] Epoch 17. Train step 400. Loss 0.17584992945194244. Loss log likelihood 0. Loss perceptual 0.17584992945194244
+2021-08-09 19:49:08,075 - INFO - [67.06466436386108 s] Epoch 17. Train step 500. Loss 0.1957482099533081. Loss log likelihood 0. Loss perceptual 0.1957482099533081
+2021-08-09 19:49:21,373 - INFO - [80.3624153137207 s] Epoch 17. Train step 600. Loss 0.21010419726371765. Loss log likelihood 0. Loss perceptual 0.21010419726371765
+2021-08-09 19:49:34,726 - INFO - [93.71516013145447 s] Epoch 17. Train step 700. Loss 0.17697066068649292. Loss log likelihood 0. Loss perceptual 0.17697066068649292
+2021-08-09 19:49:47,945 - INFO - [106.93406319618225 s] Epoch 17. Train step 800. Loss 0.1476840376853943. Loss log likelihood 0. Loss perceptual 0.1476840376853943
+2021-08-09 19:50:01,085 - INFO - [120.0746078491211 s] Epoch 17. Train step 900. Loss 0.16733799874782562. Loss log likelihood 0. Loss perceptual 0.16733799874782562
+2021-08-09 19:50:14,218 - INFO - [133.2070119380951 s] Epoch 17. Train step 1000. Loss 0.18226921558380127. Loss log likelihood 0. Loss perceptual 0.18226921558380127
+2021-08-09 19:50:27,360 - INFO - [146.34986519813538 s] Epoch 17. Train step 1100. Loss 0.1287754774093628. Loss log likelihood 0. Loss perceptual 0.1287754774093628
+2021-08-09 19:50:34,083 - INFO - Training Epoch 17 has completed. Time: 153.07202529907227
+2021-08-09 19:50:36,382 - INFO - [2.2986843585968018 s] Epoch 17. Evaluation step 0
+2021-08-09 19:50:42,393 - INFO - Evaluation Epoch 17 has completed. Time: 8.30981707572937
+2021-08-09 19:50:42,437 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_17
+2021-08-09 19:50:42,580 - INFO - [0.1428971290588379 s] Epoch 18. Train step 0. Loss 0.17874333262443542. Loss log likelihood 0. Loss perceptual 0.17874333262443542
+2021-08-09 19:50:55,691 - INFO - [13.253453731536865 s] Epoch 18. Train step 100. Loss 0.1412794589996338. Loss log likelihood 0. Loss perceptual 0.1412794589996338
+2021-08-09 19:51:08,800 - INFO - [26.36215901374817 s] Epoch 18. Train step 200. Loss 0.180421382188797. Loss log likelihood 0. Loss perceptual 0.180421382188797
+2021-08-09 19:51:21,923 - INFO - [39.485705614089966 s] Epoch 18. Train step 300. Loss 0.2120194435119629. Loss log likelihood 0. Loss perceptual 0.2120194435119629
+2021-08-09 19:51:35,017 - INFO - [52.57992196083069 s] Epoch 18. Train step 400. Loss 0.21632933616638184. Loss log likelihood 0. Loss perceptual 0.21632933616638184
+2021-08-09 19:51:48,151 - INFO - [65.71354103088379 s] Epoch 18. Train step 500. Loss 0.21402877569198608. Loss log likelihood 0. Loss perceptual 0.21402877569198608
+2021-08-09 19:52:01,307 - INFO - [78.86893939971924 s] Epoch 18. Train step 600. Loss 0.21836940944194794. Loss log likelihood 0. Loss perceptual 0.21836940944194794
+2021-08-09 19:52:14,439 - INFO - [92.00158333778381 s] Epoch 18. Train step 700. Loss 0.1875585913658142. Loss log likelihood 0. Loss perceptual 0.1875585913658142
+2021-08-09 19:52:27,623 - INFO - [105.18553495407104 s] Epoch 18. Train step 800. Loss 0.17086628079414368. Loss log likelihood 0. Loss perceptual 0.17086628079414368
+2021-08-09 19:52:40,750 - INFO - [118.3121600151062 s] Epoch 18. Train step 900. Loss 0.17441311478614807. Loss log likelihood 0. Loss perceptual 0.17441311478614807
+2021-08-09 19:52:53,866 - INFO - [131.4282717704773 s] Epoch 18. Train step 1000. Loss 0.17965741455554962. Loss log likelihood 0. Loss perceptual 0.17965741455554962
+2021-08-09 19:53:07,029 - INFO - [144.5917899608612 s] Epoch 18. Train step 1100. Loss 0.1610250622034073. Loss log likelihood 0. Loss perceptual 0.1610250622034073
+2021-08-09 19:53:13,710 - INFO - Training Epoch 18 has completed. Time: 151.27208828926086
+2021-08-09 19:53:16,007 - INFO - [2.2967050075531006 s] Epoch 18. Evaluation step 0
+2021-08-09 19:53:22,019 - INFO - Evaluation Epoch 18 has completed. Time: 8.308366298675537
+2021-08-09 19:53:22,063 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_18
+2021-08-09 19:53:22,209 - INFO - [0.14585399627685547 s] Epoch 19. Train step 0. Loss 0.15462088584899902. Loss log likelihood 0. Loss perceptual 0.15462088584899902
+2021-08-09 19:53:35,408 - INFO - [13.344469547271729 s] Epoch 19. Train step 100. Loss 0.1704527586698532. Loss log likelihood 0. Loss perceptual 0.1704527586698532
+2021-08-09 19:53:48,534 - INFO - [26.470656156539917 s] Epoch 19. Train step 200. Loss 0.18463575839996338. Loss log likelihood 0. Loss perceptual 0.18463575839996338
+2021-08-09 19:54:01,701 - INFO - [39.637120485305786 s] Epoch 19. Train step 300. Loss 0.21037989854812622. Loss log likelihood 0. Loss perceptual 0.21037989854812622
+2021-08-09 19:54:14,861 - INFO - [52.79799723625183 s] Epoch 19. Train step 400. Loss 0.20244857668876648. Loss log likelihood 0. Loss perceptual 0.20244857668876648
+2021-08-09 19:54:27,993 - INFO - [65.92964577674866 s] Epoch 19. Train step 500. Loss 0.20922218263149261. Loss log likelihood 0. Loss perceptual 0.20922218263149261
+2021-08-09 19:54:41,207 - INFO - [79.14321541786194 s] Epoch 19. Train step 600. Loss 0.1883963644504547. Loss log likelihood 0. Loss perceptual 0.1883963644504547
+2021-08-09 19:54:54,341 - INFO - [92.27797842025757 s] Epoch 19. Train step 700. Loss 0.20710664987564087. Loss log likelihood 0. Loss perceptual 0.20710664987564087
+2021-08-09 19:55:07,493 - INFO - [105.42919898033142 s] Epoch 19. Train step 800. Loss 0.1724632978439331. Loss log likelihood 0. Loss perceptual 0.1724632978439331
+2021-08-09 19:55:20,670 - INFO - [118.60645794868469 s] Epoch 19. Train step 900. Loss 0.1813470721244812. Loss log likelihood 0. Loss perceptual 0.1813470721244812
+2021-08-09 19:55:33,782 - INFO - [131.71887803077698 s] Epoch 19. Train step 1000. Loss 0.17652282118797302. Loss log likelihood 0. Loss perceptual 0.17652282118797302
+2021-08-09 19:55:46,898 - INFO - [144.83414697647095 s] Epoch 19. Train step 1100. Loss 0.1744707226753235. Loss log likelihood 0. Loss perceptual 0.1744707226753235
+2021-08-09 19:55:53,620 - INFO - Training Epoch 19 has completed. Time: 151.55623316764832
+2021-08-09 19:55:55,922 - INFO - [2.301607370376587 s] Epoch 19. Evaluation step 0
+2021-08-09 19:56:01,938 - INFO - Evaluation Epoch 19 has completed. Time: 8.317878484725952
+2021-08-09 19:56:01,985 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_19
+2021-08-09 19:56:02,135 - INFO - [0.14956283569335938 s] Epoch 20. Train step 0. Loss 0.1784535050392151. Loss log likelihood 0. Loss perceptual 0.1784535050392151
+2021-08-09 19:56:15,560 - INFO - [13.574772596359253 s] Epoch 20. Train step 100. Loss 0.1791718602180481. Loss log likelihood 0. Loss perceptual 0.1791718602180481
+2021-08-09 19:56:28,958 - INFO - [26.972957134246826 s] Epoch 20. Train step 200. Loss 0.1729419231414795. Loss log likelihood 0. Loss perceptual 0.1729419231414795
+2021-08-09 19:56:42,358 - INFO - [40.37209677696228 s] Epoch 20. Train step 300. Loss 0.15677735209465027. Loss log likelihood 0. Loss perceptual 0.15677735209465027
+2021-08-09 19:56:55,752 - INFO - [53.76684546470642 s] Epoch 20. Train step 400. Loss 0.1872483789920807. Loss log likelihood 0. Loss perceptual 0.1872483789920807
+2021-08-09 19:57:08,964 - INFO - [66.97872424125671 s] Epoch 20. Train step 500. Loss 0.1299540400505066. Loss log likelihood 0. Loss perceptual 0.1299540400505066
+2021-08-09 19:57:22,137 - INFO - [80.15134072303772 s] Epoch 20. Train step 600. Loss 0.14843936264514923. Loss log likelihood 0. Loss perceptual 0.14843936264514923
+2021-08-09 19:57:35,290 - INFO - [93.30454754829407 s] Epoch 20. Train step 700. Loss 0.1990380585193634. Loss log likelihood 0. Loss perceptual 0.1990380585193634
+2021-08-09 19:57:48,814 - INFO - [106.82887721061707 s] Epoch 20. Train step 800. Loss 0.12238211184740067. Loss log likelihood 0. Loss perceptual 0.12238211184740067
+2021-08-09 19:58:02,306 - INFO - [120.32098388671875 s] Epoch 20. Train step 900. Loss 0.15256720781326294. Loss log likelihood 0. Loss perceptual 0.15256720781326294
+2021-08-09 19:58:15,766 - INFO - [133.78066039085388 s] Epoch 20. Train step 1000. Loss 0.17244777083396912. Loss log likelihood 0. Loss perceptual 0.17244777083396912
+2021-08-09 19:58:29,124 - INFO - [147.13878798484802 s] Epoch 20. Train step 1100. Loss 0.16941943764686584. Loss log likelihood 0. Loss perceptual 0.16941943764686584
+2021-08-09 19:58:35,970 - INFO - Training Epoch 20 has completed. Time: 153.9850947856903
+2021-08-09 19:58:38,273 - INFO - [2.3018457889556885 s] Epoch 20. Evaluation step 0
+2021-08-09 19:58:44,288 - INFO - Evaluation Epoch 20 has completed. Time: 8.316558837890625
+2021-08-09 19:58:44,335 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_20
+2021-08-09 19:58:44,486 - INFO - [0.14963841438293457 s] Epoch 21. Train step 0. Loss 0.16238528490066528. Loss log likelihood 0. Loss perceptual 0.16238528490066528
+2021-08-09 19:58:57,796 - INFO - [13.459872961044312 s] Epoch 21. Train step 100. Loss 0.15714699029922485. Loss log likelihood 0. Loss perceptual 0.15714699029922485
+2021-08-09 19:59:11,143 - INFO - [26.806970834732056 s] Epoch 21. Train step 200. Loss 0.22407089173793793. Loss log likelihood 0. Loss perceptual 0.22407089173793793
+2021-08-09 19:59:24,509 - INFO - [40.17324638366699 s] Epoch 21. Train step 300. Loss 0.20290061831474304. Loss log likelihood 0. Loss perceptual 0.20290061831474304
+2021-08-09 19:59:37,824 - INFO - [53.488476276397705 s] Epoch 21. Train step 400. Loss 0.14434896409511566. Loss log likelihood 0. Loss perceptual 0.14434896409511566
+2021-08-09 19:59:51,107 - INFO - [66.77122354507446 s] Epoch 21. Train step 500. Loss 0.1675616204738617. Loss log likelihood 0. Loss perceptual 0.1675616204738617
+2021-08-09 20:00:04,433 - INFO - [80.09691023826599 s] Epoch 21. Train step 600. Loss 0.16200122237205505. Loss log likelihood 0. Loss perceptual 0.16200122237205505
+2021-08-09 20:00:17,724 - INFO - [93.38810777664185 s] Epoch 21. Train step 700. Loss 0.1710871458053589. Loss log likelihood 0. Loss perceptual 0.1710871458053589
+2021-08-09 20:00:31,071 - INFO - [106.73483848571777 s] Epoch 21. Train step 800. Loss 0.16092944145202637. Loss log likelihood 0. Loss perceptual 0.16092944145202637
+2021-08-09 20:00:44,322 - INFO - [119.98608732223511 s] Epoch 21. Train step 900. Loss 0.15308384597301483. Loss log likelihood 0. Loss perceptual 0.15308384597301483
+2021-08-09 20:00:57,443 - INFO - [133.10736179351807 s] Epoch 21. Train step 1000. Loss 0.13661852478981018. Loss log likelihood 0. Loss perceptual 0.13661852478981018
+2021-08-09 20:01:10,595 - INFO - [146.25944924354553 s] Epoch 21. Train step 1100. Loss 0.1805133819580078. Loss log likelihood 0. Loss perceptual 0.1805133819580078
+2021-08-09 20:01:17,298 - INFO - Training Epoch 21 has completed. Time: 152.9617645740509
+2021-08-09 20:01:19,603 - INFO - [2.304532766342163 s] Epoch 21. Evaluation step 0
+2021-08-09 20:01:25,614 - INFO - Evaluation Epoch 21 has completed. Time: 8.315371751785278
+2021-08-09 20:01:25,659 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_21
+2021-08-09 20:01:25,806 - INFO - [0.14638638496398926 s] Epoch 22. Train step 0. Loss 0.1621638536453247. Loss log likelihood 0. Loss perceptual 0.1621638536453247
+2021-08-09 20:01:38,919 - INFO - [13.259313821792603 s] Epoch 22. Train step 100. Loss 0.19468355178833008. Loss log likelihood 0. Loss perceptual 0.19468355178833008
+2021-08-09 20:01:52,124 - INFO - [26.46432089805603 s] Epoch 22. Train step 200. Loss 0.20734427869319916. Loss log likelihood 0. Loss perceptual 0.20734427869319916
+2021-08-09 20:02:05,360 - INFO - [39.699702501297 s] Epoch 22. Train step 300. Loss 0.18149659037590027. Loss log likelihood 0. Loss perceptual 0.18149659037590027
+2021-08-09 20:02:18,532 - INFO - [52.872020959854126 s] Epoch 22. Train step 400. Loss 0.15537767112255096. Loss log likelihood 0. Loss perceptual 0.15537767112255096
+2021-08-09 20:02:31,743 - INFO - [66.0828025341034 s] Epoch 22. Train step 500. Loss 0.1878356784582138. Loss log likelihood 0. Loss perceptual 0.1878356784582138
+2021-08-09 20:02:44,912 - INFO - [79.25178575515747 s] Epoch 22. Train step 600. Loss 0.15858867764472961. Loss log likelihood 0. Loss perceptual 0.15858867764472961
+2021-08-09 20:02:58,063 - INFO - [92.40347576141357 s] Epoch 22. Train step 700. Loss 0.15011337399482727. Loss log likelihood 0. Loss perceptual 0.15011337399482727
+2021-08-09 20:03:11,197 - INFO - [105.53741264343262 s] Epoch 22. Train step 800. Loss 0.20186710357666016. Loss log likelihood 0. Loss perceptual 0.20186710357666016
+2021-08-09 20:03:24,440 - INFO - [118.78044819831848 s] Epoch 22. Train step 900. Loss 0.18824376165866852. Loss log likelihood 0. Loss perceptual 0.18824376165866852
+2021-08-09 20:03:37,672 - INFO - [132.01212430000305 s] Epoch 22. Train step 1000. Loss 0.1835959255695343. Loss log likelihood 0. Loss perceptual 0.1835959255695343
+2021-08-09 20:03:50,825 - INFO - [145.16520142555237 s] Epoch 22. Train step 1100. Loss 0.19088569283485413. Loss log likelihood 0. Loss perceptual 0.19088569283485413
+2021-08-09 20:03:57,524 - INFO - Training Epoch 22 has completed. Time: 151.8638470172882
+2021-08-09 20:03:59,826 - INFO - [2.301354169845581 s] Epoch 22. Evaluation step 0
+2021-08-09 20:04:05,831 - INFO - Evaluation Epoch 22 has completed. Time: 8.306732892990112
+2021-08-09 20:04:05,876 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_22
+2021-08-09 20:04:06,023 - INFO - [0.14646315574645996 s] Epoch 23. Train step 0. Loss 0.17451278865337372. Loss log likelihood 0. Loss perceptual 0.17451278865337372
+2021-08-09 20:04:19,171 - INFO - [13.293483972549438 s] Epoch 23. Train step 100. Loss 0.1642676293849945. Loss log likelihood 0. Loss perceptual 0.1642676293849945
+2021-08-09 20:04:32,303 - INFO - [26.425713539123535 s] Epoch 23. Train step 200. Loss 0.17098170518875122. Loss log likelihood 0. Loss perceptual 0.17098170518875122
+2021-08-09 20:04:45,416 - INFO - [39.53892230987549 s] Epoch 23. Train step 300. Loss 0.20153731107711792. Loss log likelihood 0. Loss perceptual 0.20153731107711792
+2021-08-09 20:04:58,528 - INFO - [52.651050090789795 s] Epoch 23. Train step 400. Loss 0.17506155371665955. Loss log likelihood 0. Loss perceptual 0.17506155371665955
+2021-08-09 20:05:11,704 - INFO - [65.82706689834595 s] Epoch 23. Train step 500. Loss 0.19081731140613556. Loss log likelihood 0. Loss perceptual 0.19081731140613556
+2021-08-09 20:05:24,858 - INFO - [78.98065567016602 s] Epoch 23. Train step 600. Loss 0.15411749482154846. Loss log likelihood 0. Loss perceptual 0.15411749482154846
+2021-08-09 20:05:37,975 - INFO - [92.09768795967102 s] Epoch 23. Train step 700. Loss 0.18910697102546692. Loss log likelihood 0. Loss perceptual 0.18910697102546692
+2021-08-09 20:05:51,113 - INFO - [105.23581862449646 s] Epoch 23. Train step 800. Loss 0.13638117909431458. Loss log likelihood 0. Loss perceptual 0.13638117909431458
+2021-08-09 20:06:04,212 - INFO - [118.33497714996338 s] Epoch 23. Train step 900. Loss 0.19558203220367432. Loss log likelihood 0. Loss perceptual 0.19558203220367432
+2021-08-09 20:06:17,341 - INFO - [131.46370196342468 s] Epoch 23. Train step 1000. Loss 0.21116699278354645. Loss log likelihood 0. Loss perceptual 0.21116699278354645
+2021-08-09 20:06:30,495 - INFO - [144.61783146858215 s] Epoch 23. Train step 1100. Loss 0.18433403968811035. Loss log likelihood 0. Loss perceptual 0.18433403968811035
+2021-08-09 20:06:37,196 - INFO - Training Epoch 23 has completed. Time: 151.31876254081726
+2021-08-09 20:06:39,493 - INFO - [2.2967560291290283 s] Epoch 23. Evaluation step 0
+2021-08-09 20:06:45,509 - INFO - Evaluation Epoch 23 has completed. Time: 8.312686920166016
+2021-08-09 20:06:45,557 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_23
+2021-08-09 20:06:45,701 - INFO - [0.1436760425567627 s] Epoch 24. Train step 0. Loss 0.1781417578458786. Loss log likelihood 0. Loss perceptual 0.1781417578458786
+2021-08-09 20:06:58,924 - INFO - [13.366467237472534 s] Epoch 24. Train step 100. Loss 0.18152457475662231. Loss log likelihood 0. Loss perceptual 0.18152457475662231
+2021-08-09 20:07:12,163 - INFO - [26.60541820526123 s] Epoch 24. Train step 200. Loss 0.14986969530582428. Loss log likelihood 0. Loss perceptual 0.14986969530582428
+2021-08-09 20:07:25,345 - INFO - [39.7869975566864 s] Epoch 24. Train step 300. Loss 0.14086715877056122. Loss log likelihood 0. Loss perceptual 0.14086715877056122
+2021-08-09 20:07:38,595 - INFO - [53.03748106956482 s] Epoch 24. Train step 400. Loss 0.20270216464996338. Loss log likelihood 0. Loss perceptual 0.20270216464996338
+2021-08-09 20:07:51,739 - INFO - [66.18142414093018 s] Epoch 24. Train step 500. Loss 0.17592871189117432. Loss log likelihood 0. Loss perceptual 0.17592871189117432
+2021-08-09 20:08:04,852 - INFO - [79.29441380500793 s] Epoch 24. Train step 600. Loss 0.17786183953285217. Loss log likelihood 0. Loss perceptual 0.17786183953285217
+2021-08-09 20:08:17,988 - INFO - [92.4303069114685 s] Epoch 24. Train step 700. Loss 0.14498606324195862. Loss log likelihood 0. Loss perceptual 0.14498606324195862
+2021-08-09 20:08:31,077 - INFO - [105.51966309547424 s] Epoch 24. Train step 800. Loss 0.18126776814460754. Loss log likelihood 0. Loss perceptual 0.18126776814460754
+2021-08-09 20:08:44,181 - INFO - [118.62341237068176 s] Epoch 24. Train step 900. Loss 0.20024776458740234. Loss log likelihood 0. Loss perceptual 0.20024776458740234
+2021-08-09 20:08:57,358 - INFO - [131.8002529144287 s] Epoch 24. Train step 1000. Loss 0.18914800882339478. Loss log likelihood 0. Loss perceptual 0.18914800882339478
+2021-08-09 20:09:10,551 - INFO - [144.99356651306152 s] Epoch 24. Train step 1100. Loss 0.25279077887535095. Loss log likelihood 0. Loss perceptual 0.25279077887535095
+2021-08-09 20:09:17,278 - INFO - Training Epoch 24 has completed. Time: 151.72090888023376
+2021-08-09 20:09:19,583 - INFO - [2.303568124771118 s] Epoch 24. Evaluation step 0
+2021-08-09 20:09:25,594 - INFO - Evaluation Epoch 24 has completed. Time: 8.314703464508057
+2021-08-09 20:09:25,642 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_24
+2021-08-09 20:09:25,785 - INFO - [0.14265179634094238 s] Epoch 25. Train step 0. Loss 0.23216229677200317. Loss log likelihood 0. Loss perceptual 0.23216229677200317
+2021-08-09 20:09:38,929 - INFO - [13.28588342666626 s] Epoch 25. Train step 100. Loss 0.1705441176891327. Loss log likelihood 0. Loss perceptual 0.1705441176891327
+2021-08-09 20:09:52,210 - INFO - [26.56684398651123 s] Epoch 25. Train step 200. Loss 0.15737177431583405. Loss log likelihood 0. Loss perceptual 0.15737177431583405
+2021-08-09 20:10:05,400 - INFO - [39.757532835006714 s] Epoch 25. Train step 300. Loss 0.16798633337020874. Loss log likelihood 0. Loss perceptual 0.16798633337020874
+2021-08-09 20:10:18,533 - INFO - [52.890812158584595 s] Epoch 25. Train step 400. Loss 0.16629540920257568. Loss log likelihood 0. Loss perceptual 0.16629540920257568
+2021-08-09 20:10:31,659 - INFO - [66.01626777648926 s] Epoch 25. Train step 500. Loss 0.18794605135917664. Loss log likelihood 0. Loss perceptual 0.18794605135917664
+2021-08-09 20:10:44,800 - INFO - [79.15735840797424 s] Epoch 25. Train step 600. Loss 0.19052326679229736. Loss log likelihood 0. Loss perceptual 0.19052326679229736
+2021-08-09 20:10:57,901 - INFO - [92.25854420661926 s] Epoch 25. Train step 700. Loss 0.16846713423728943. Loss log likelihood 0. Loss perceptual 0.16846713423728943
+2021-08-09 20:11:11,024 - INFO - [105.38125205039978 s] Epoch 25. Train step 800. Loss 0.22347213327884674. Loss log likelihood 0. Loss perceptual 0.22347213327884674
+2021-08-09 20:11:24,146 - INFO - [118.5034294128418 s] Epoch 25. Train step 900. Loss 0.1881180703639984. Loss log likelihood 0. Loss perceptual 0.1881180703639984
+2021-08-09 20:11:37,305 - INFO - [131.66233444213867 s] Epoch 25. Train step 1000. Loss 0.15797537565231323. Loss log likelihood 0. Loss perceptual 0.15797537565231323
+2021-08-09 20:11:50,448 - INFO - [144.8051245212555 s] Epoch 25. Train step 1100. Loss 0.14929379522800446. Loss log likelihood 0. Loss perceptual 0.14929379522800446
+2021-08-09 20:11:57,132 - INFO - Training Epoch 25 has completed. Time: 151.48899173736572
+2021-08-09 20:11:59,439 - INFO - [2.306725025177002 s] Epoch 25. Evaluation step 0
+2021-08-09 20:12:05,450 - INFO - Evaluation Epoch 25 has completed. Time: 8.31737995147705
+2021-08-09 20:12:05,498 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_25
+2021-08-09 20:12:05,642 - INFO - [0.14331555366516113 s] Epoch 26. Train step 0. Loss 0.13307124376296997. Loss log likelihood 0. Loss perceptual 0.13307124376296997
+2021-08-09 20:12:18,783 - INFO - [13.284300327301025 s] Epoch 26. Train step 100. Loss 0.16530904173851013. Loss log likelihood 0. Loss perceptual 0.16530904173851013
+2021-08-09 20:12:31,977 - INFO - [26.478336811065674 s] Epoch 26. Train step 200. Loss 0.18451189994812012. Loss log likelihood 0. Loss perceptual 0.18451189994812012
+2021-08-09 20:12:45,203 - INFO - [39.70499634742737 s] Epoch 26. Train step 300. Loss 0.2248278260231018. Loss log likelihood 0. Loss perceptual 0.2248278260231018
+2021-08-09 20:12:58,317 - INFO - [52.8188841342926 s] Epoch 26. Train step 400. Loss 0.17854422330856323. Loss log likelihood 0. Loss perceptual 0.17854422330856323
+2021-08-09 20:13:11,502 - INFO - [66.00336909294128 s] Epoch 26. Train step 500. Loss 0.15098494291305542. Loss log likelihood 0. Loss perceptual 0.15098494291305542
+2021-08-09 20:13:24,722 - INFO - [79.22395467758179 s] Epoch 26. Train step 600. Loss 0.19766345620155334. Loss log likelihood 0. Loss perceptual 0.19766345620155334
+2021-08-09 20:13:37,909 - INFO - [92.41030550003052 s] Epoch 26. Train step 700. Loss 0.21018299460411072. Loss log likelihood 0. Loss perceptual 0.21018299460411072
+2021-08-09 20:13:51,040 - INFO - [105.54202437400818 s] Epoch 26. Train step 800. Loss 0.185277059674263. Loss log likelihood 0. Loss perceptual 0.185277059674263
+2021-08-09 20:14:04,320 - INFO - [118.82159519195557 s] Epoch 26. Train step 900. Loss 0.1801007091999054. Loss log likelihood 0. Loss perceptual 0.1801007091999054
+2021-08-09 20:14:17,453 - INFO - [131.9547882080078 s] Epoch 26. Train step 1000. Loss 0.19542065262794495. Loss log likelihood 0. Loss perceptual 0.19542065262794495
+2021-08-09 20:14:30,585 - INFO - [145.08664107322693 s] Epoch 26. Train step 1100. Loss 0.15302018821239471. Loss log likelihood 0. Loss perceptual 0.15302018821239471
+2021-08-09 20:14:37,306 - INFO - Training Epoch 26 has completed. Time: 151.80802297592163
+2021-08-09 20:14:39,604 - INFO - [2.29659104347229 s] Epoch 26. Evaluation step 0
+2021-08-09 20:14:45,621 - INFO - Evaluation Epoch 26 has completed. Time: 8.314380168914795
+2021-08-09 20:14:45,669 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_26
+2021-08-09 20:14:45,813 - INFO - [0.14357709884643555 s] Epoch 27. Train step 0. Loss 0.16882507503032684. Loss log likelihood 0. Loss perceptual 0.16882507503032684
+2021-08-09 20:14:58,963 - INFO - [13.293086767196655 s] Epoch 27. Train step 100. Loss 0.16236647963523865. Loss log likelihood 0. Loss perceptual 0.16236647963523865
+2021-08-09 20:15:12,154 - INFO - [26.48386836051941 s] Epoch 27. Train step 200. Loss 0.20949718356132507. Loss log likelihood 0. Loss perceptual 0.20949718356132507
+2021-08-09 20:15:25,289 - INFO - [39.61875534057617 s] Epoch 27. Train step 300. Loss 0.17297735810279846. Loss log likelihood 0. Loss perceptual 0.17297735810279846
+2021-08-09 20:15:38,425 - INFO - [52.75466442108154 s] Epoch 27. Train step 400. Loss 0.18477103114128113. Loss log likelihood 0. Loss perceptual 0.18477103114128113
+2021-08-09 20:15:51,565 - INFO - [65.8952112197876 s] Epoch 27. Train step 500. Loss 0.15260973572731018. Loss log likelihood 0. Loss perceptual 0.15260973572731018
+2021-08-09 20:16:04,745 - INFO - [79.07472372055054 s] Epoch 27. Train step 600. Loss 0.13046084344387054. Loss log likelihood 0. Loss perceptual 0.13046084344387054
+2021-08-09 20:16:17,889 - INFO - [92.21881151199341 s] Epoch 27. Train step 700. Loss 0.1734250783920288. Loss log likelihood 0. Loss perceptual 0.1734250783920288
+2021-08-09 20:16:31,081 - INFO - [105.41083979606628 s] Epoch 27. Train step 800. Loss 0.20475929975509644. Loss log likelihood 0. Loss perceptual 0.20475929975509644
+2021-08-09 20:16:44,293 - INFO - [118.62357425689697 s] Epoch 27. Train step 900. Loss 0.11902481317520142. Loss log likelihood 0. Loss perceptual 0.11902481317520142
+2021-08-09 20:16:57,440 - INFO - [131.76992177963257 s] Epoch 27. Train step 1000. Loss 0.16719509661197662. Loss log likelihood 0. Loss perceptual 0.16719509661197662
+2021-08-09 20:17:10,571 - INFO - [144.9010877609253 s] Epoch 27. Train step 1100. Loss 0.1984759271144867. Loss log likelihood 0. Loss perceptual 0.1984759271144867
+2021-08-09 20:17:17,257 - INFO - Training Epoch 27 has completed. Time: 151.5872552394867
+2021-08-09 20:17:19,559 - INFO - [2.300957202911377 s] Epoch 27. Evaluation step 0
+2021-08-09 20:17:25,572 - INFO - Evaluation Epoch 27 has completed. Time: 8.314201354980469
+2021-08-09 20:17:25,617 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_27
+2021-08-09 20:17:25,762 - INFO - [0.1437702178955078 s] Epoch 28. Train step 0. Loss 0.20315727591514587. Loss log likelihood 0. Loss perceptual 0.20315727591514587
+2021-08-09 20:17:38,879 - INFO - [13.260756731033325 s] Epoch 28. Train step 100. Loss 0.19684958457946777. Loss log likelihood 0. Loss perceptual 0.19684958457946777
+2021-08-09 20:17:51,992 - INFO - [26.37426209449768 s] Epoch 28. Train step 200. Loss 0.17531508207321167. Loss log likelihood 0. Loss perceptual 0.17531508207321167
+2021-08-09 20:18:05,161 - INFO - [39.54314684867859 s] Epoch 28. Train step 300. Loss 0.17578360438346863. Loss log likelihood 0. Loss perceptual 0.17578360438346863
+2021-08-09 20:18:18,272 - INFO - [52.65466928482056 s] Epoch 28. Train step 400. Loss 0.17500078678131104. Loss log likelihood 0. Loss perceptual 0.17500078678131104
+2021-08-09 20:18:31,394 - INFO - [65.7759997844696 s] Epoch 28. Train step 500. Loss 0.14861667156219482. Loss log likelihood 0. Loss perceptual 0.14861667156219482
+2021-08-09 20:18:44,547 - INFO - [78.92876291275024 s] Epoch 28. Train step 600. Loss 0.10812337696552277. Loss log likelihood 0. Loss perceptual 0.10812337696552277
+2021-08-09 20:18:57,763 - INFO - [92.14501309394836 s] Epoch 28. Train step 700. Loss 0.18118959665298462. Loss log likelihood 0. Loss perceptual 0.18118959665298462
+2021-08-09 20:19:10,994 - INFO - [105.37596273422241 s] Epoch 28. Train step 800. Loss 0.17635875940322876. Loss log likelihood 0. Loss perceptual 0.17635875940322876
+2021-08-09 20:19:24,177 - INFO - [118.55920839309692 s] Epoch 28. Train step 900. Loss 0.17037197947502136. Loss log likelihood 0. Loss perceptual 0.17037197947502136
+2021-08-09 20:19:37,319 - INFO - [131.70149087905884 s] Epoch 28. Train step 1000. Loss 0.1988144963979721. Loss log likelihood 0. Loss perceptual 0.1988144963979721
+2021-08-09 20:19:50,511 - INFO - [144.8931529521942 s] Epoch 28. Train step 1100. Loss 0.1796213984489441. Loss log likelihood 0. Loss perceptual 0.1796213984489441
+2021-08-09 20:19:57,225 - INFO - Training Epoch 28 has completed. Time: 151.60737085342407
+2021-08-09 20:19:59,523 - INFO - [2.297091007232666 s] Epoch 28. Evaluation step 0
+2021-08-09 20:20:05,534 - INFO - Evaluation Epoch 28 has completed. Time: 8.308692693710327
+2021-08-09 20:20:05,581 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_28
+2021-08-09 20:20:05,724 - INFO - [0.14288854598999023 s] Epoch 29. Train step 0. Loss 0.16616909205913544. Loss log likelihood 0. Loss perceptual 0.16616909205913544
+2021-08-09 20:20:18,987 - INFO - [13.40580153465271 s] Epoch 29. Train step 100. Loss 0.16103318333625793. Loss log likelihood 0. Loss perceptual 0.16103318333625793
+2021-08-09 20:20:32,221 - INFO - [26.639614820480347 s] Epoch 29. Train step 200. Loss 0.16965064406394958. Loss log likelihood 0. Loss perceptual 0.16965064406394958
+2021-08-09 20:20:45,386 - INFO - [39.80496335029602 s] Epoch 29. Train step 300. Loss 0.15358930826187134. Loss log likelihood 0. Loss perceptual 0.15358930826187134
+2021-08-09 20:20:58,642 - INFO - [53.06051540374756 s] Epoch 29. Train step 400. Loss 0.14181247353553772. Loss log likelihood 0. Loss perceptual 0.14181247353553772
+2021-08-09 20:21:11,870 - INFO - [66.28838109970093 s] Epoch 29. Train step 500. Loss 0.18089598417282104. Loss log likelihood 0. Loss perceptual 0.18089598417282104
+2021-08-09 20:21:24,983 - INFO - [79.40132975578308 s] Epoch 29. Train step 600. Loss 0.18709738552570343. Loss log likelihood 0. Loss perceptual 0.18709738552570343
+2021-08-09 20:21:38,157 - INFO - [92.57512950897217 s] Epoch 29. Train step 700. Loss 0.15230309963226318. Loss log likelihood 0. Loss perceptual 0.15230309963226318
+2021-08-09 20:21:51,308 - INFO - [105.72632384300232 s] Epoch 29. Train step 800. Loss 0.17686358094215393. Loss log likelihood 0. Loss perceptual 0.17686358094215393
+2021-08-09 20:22:04,483 - INFO - [118.90134286880493 s] Epoch 29. Train step 900. Loss 0.1695101112127304. Loss log likelihood 0. Loss perceptual 0.1695101112127304
+2021-08-09 20:22:17,723 - INFO - [132.14180850982666 s] Epoch 29. Train step 1000. Loss 0.15291211009025574. Loss log likelihood 0. Loss perceptual 0.15291211009025574
+2021-08-09 20:22:30,967 - INFO - [145.38505792617798 s] Epoch 29. Train step 1100. Loss 0.1686062216758728. Loss log likelihood 0. Loss perceptual 0.1686062216758728
+2021-08-09 20:22:37,689 - INFO - Training Epoch 29 has completed. Time: 152.10795950889587
+2021-08-09 20:22:39,998 - INFO - [2.3079099655151367 s] Epoch 29. Evaluation step 0
+2021-08-09 20:22:46,013 - INFO - Evaluation Epoch 29 has completed. Time: 8.323145151138306
+2021-08-09 20:22:46,061 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_29
+2021-08-09 20:22:46,206 - INFO - [0.14492249488830566 s] Epoch 30. Train step 0. Loss 0.16206559538841248. Loss log likelihood 0. Loss perceptual 0.16206559538841248
+2021-08-09 20:22:59,407 - INFO - [13.345255374908447 s] Epoch 30. Train step 100. Loss 0.11347197741270065. Loss log likelihood 0. Loss perceptual 0.11347197741270065
+2021-08-09 20:23:12,568 - INFO - [26.506512880325317 s] Epoch 30. Train step 200. Loss 0.17752191424369812. Loss log likelihood 0. Loss perceptual 0.17752191424369812
+2021-08-09 20:23:25,731 - INFO - [39.66999554634094 s] Epoch 30. Train step 300. Loss 0.18958629667758942. Loss log likelihood 0. Loss perceptual 0.18958629667758942
+2021-08-09 20:23:38,871 - INFO - [52.809895515441895 s] Epoch 30. Train step 400. Loss 0.16319406032562256. Loss log likelihood 0. Loss perceptual 0.16319406032562256
+2021-08-09 20:23:52,034 - INFO - [65.97313141822815 s] Epoch 30. Train step 500. Loss 0.13551633059978485. Loss log likelihood 0. Loss perceptual 0.13551633059978485
+2021-08-09 20:24:05,156 - INFO - [79.09422826766968 s] Epoch 30. Train step 600. Loss 0.16453315317630768. Loss log likelihood 0. Loss perceptual 0.16453315317630768
+2021-08-09 20:24:18,301 - INFO - [92.23959517478943 s] Epoch 30. Train step 700. Loss 0.18445467948913574. Loss log likelihood 0. Loss perceptual 0.18445467948913574
+2021-08-09 20:24:31,427 - INFO - [105.36540961265564 s] Epoch 30. Train step 800. Loss 0.16142788529396057. Loss log likelihood 0. Loss perceptual 0.16142788529396057
+2021-08-09 20:24:44,620 - INFO - [118.55867958068848 s] Epoch 30. Train step 900. Loss 0.1825231909751892. Loss log likelihood 0. Loss perceptual 0.1825231909751892
+2021-08-09 20:24:57,854 - INFO - [131.7922716140747 s] Epoch 30. Train step 1000. Loss 0.17378021776676178. Loss log likelihood 0. Loss perceptual 0.17378021776676178
+2021-08-09 20:25:11,050 - INFO - [144.98910212516785 s] Epoch 30. Train step 1100. Loss 0.17712947726249695. Loss log likelihood 0. Loss perceptual 0.17712947726249695
+2021-08-09 20:25:17,781 - INFO - Training Epoch 30 has completed. Time: 151.71934151649475
+2021-08-09 20:25:20,086 - INFO - [2.305083751678467 s] Epoch 30. Evaluation step 0
+2021-08-09 20:25:26,096 - INFO - Evaluation Epoch 30 has completed. Time: 8.314655780792236
+2021-08-09 20:25:26,141 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_30
+2021-08-09 20:25:26,285 - INFO - [0.1437544822692871 s] Epoch 31. Train step 0. Loss 0.17190060019493103. Loss log likelihood 0. Loss perceptual 0.17190060019493103
+2021-08-09 20:25:39,444 - INFO - [13.302671432495117 s] Epoch 31. Train step 100. Loss 0.16869735717773438. Loss log likelihood 0. Loss perceptual 0.16869735717773438
+2021-08-09 20:25:52,570 - INFO - [26.428579807281494 s] Epoch 31. Train step 200. Loss 0.18599151074886322. Loss log likelihood 0. Loss perceptual 0.18599151074886322
+2021-08-09 20:26:05,713 - INFO - [39.57167673110962 s] Epoch 31. Train step 300. Loss 0.14937525987625122. Loss log likelihood 0. Loss perceptual 0.14937525987625122
+2021-08-09 20:26:18,864 - INFO - [52.72281765937805 s] Epoch 31. Train step 400. Loss 0.154843270778656. Loss log likelihood 0. Loss perceptual 0.154843270778656
+2021-08-09 20:26:31,999 - INFO - [65.85772824287415 s] Epoch 31. Train step 500. Loss 0.19311264157295227. Loss log likelihood 0. Loss perceptual 0.19311264157295227
+2021-08-09 20:26:45,111 - INFO - [78.96969437599182 s] Epoch 31. Train step 600. Loss 0.20276647806167603. Loss log likelihood 0. Loss perceptual 0.20276647806167603
+2021-08-09 20:26:58,250 - INFO - [92.10831427574158 s] Epoch 31. Train step 700. Loss 0.20136572420597076. Loss log likelihood 0. Loss perceptual 0.20136572420597076
+2021-08-09 20:27:11,393 - INFO - [105.25175547599792 s] Epoch 31. Train step 800. Loss 0.14850294589996338. Loss log likelihood 0. Loss perceptual 0.14850294589996338
+2021-08-09 20:27:24,548 - INFO - [118.40624618530273 s] Epoch 31. Train step 900. Loss 0.2241363525390625. Loss log likelihood 0. Loss perceptual 0.2241363525390625
+2021-08-09 20:27:37,646 - INFO - [131.50398564338684 s] Epoch 31. Train step 1000. Loss 0.1695551574230194. Loss log likelihood 0. Loss perceptual 0.1695551574230194
+2021-08-09 20:27:50,733 - INFO - [144.59153008460999 s] Epoch 31. Train step 1100. Loss 0.15987113118171692. Loss log likelihood 0. Loss perceptual 0.15987113118171692
+2021-08-09 20:27:57,409 - INFO - Training Epoch 31 has completed. Time: 151.26733231544495
+2021-08-09 20:27:59,707 - INFO - [2.2977662086486816 s] Epoch 31. Evaluation step 0
+2021-08-09 20:28:05,712 - INFO - Evaluation Epoch 31 has completed. Time: 8.302340984344482
+2021-08-09 20:28:05,758 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_31
+2021-08-09 20:28:05,901 - INFO - [0.14254546165466309 s] Epoch 32. Train step 0. Loss 0.2069873809814453. Loss log likelihood 0. Loss perceptual 0.2069873809814453
+2021-08-09 20:28:19,051 - INFO - [13.292043685913086 s] Epoch 32. Train step 100. Loss 0.13375574350357056. Loss log likelihood 0. Loss perceptual 0.13375574350357056
+2021-08-09 20:28:32,150 - INFO - [26.390554189682007 s] Epoch 32. Train step 200. Loss 0.15952731668949127. Loss log likelihood 0. Loss perceptual 0.15952731668949127
+2021-08-09 20:28:45,241 - INFO - [39.48170566558838 s] Epoch 32. Train step 300. Loss 0.145778089761734. Loss log likelihood 0. Loss perceptual 0.145778089761734
+2021-08-09 20:28:58,365 - INFO - [52.6055793762207 s] Epoch 32. Train step 400. Loss 0.17373478412628174. Loss log likelihood 0. Loss perceptual 0.17373478412628174
+2021-08-09 20:29:11,571 - INFO - [65.81182789802551 s] Epoch 32. Train step 500. Loss 0.21081207692623138. Loss log likelihood 0. Loss perceptual 0.21081207692623138
+2021-08-09 20:29:24,693 - INFO - [78.9338493347168 s] Epoch 32. Train step 600. Loss 0.18753762543201447. Loss log likelihood 0. Loss perceptual 0.18753762543201447
+2021-08-09 20:29:37,906 - INFO - [92.14721512794495 s] Epoch 32. Train step 700. Loss 0.16631019115447998. Loss log likelihood 0. Loss perceptual 0.16631019115447998
+2021-08-09 20:29:51,047 - INFO - [105.28774785995483 s] Epoch 32. Train step 800. Loss 0.1650920808315277. Loss log likelihood 0. Loss perceptual 0.1650920808315277
+2021-08-09 20:30:04,171 - INFO - [118.41188144683838 s] Epoch 32. Train step 900. Loss 0.16489242017269135. Loss log likelihood 0. Loss perceptual 0.16489242017269135
+2021-08-09 20:30:17,320 - INFO - [131.5607511997223 s] Epoch 32. Train step 1000. Loss 0.16159316897392273. Loss log likelihood 0. Loss perceptual 0.16159316897392273
+2021-08-09 20:30:30,478 - INFO - [144.71874380111694 s] Epoch 32. Train step 1100. Loss 0.18009614944458008. Loss log likelihood 0. Loss perceptual 0.18009614944458008
+2021-08-09 20:30:37,191 - INFO - Training Epoch 32 has completed. Time: 151.43163108825684
+2021-08-09 20:30:39,496 - INFO - [2.304429054260254 s] Epoch 32. Evaluation step 0
+2021-08-09 20:30:45,507 - INFO - Evaluation Epoch 32 has completed. Time: 8.316290855407715
+2021-08-09 20:30:45,552 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_32
+2021-08-09 20:30:45,699 - INFO - [0.14657115936279297 s] Epoch 33. Train step 0. Loss 0.16712674498558044. Loss log likelihood 0. Loss perceptual 0.16712674498558044
+2021-08-09 20:30:59,060 - INFO - [13.50754165649414 s] Epoch 33. Train step 100. Loss 0.19261178374290466. Loss log likelihood 0. Loss perceptual 0.19261178374290466
+2021-08-09 20:31:12,513 - INFO - [26.959903955459595 s] Epoch 33. Train step 200. Loss 0.13253623247146606. Loss log likelihood 0. Loss perceptual 0.13253623247146606
+2021-08-09 20:31:25,950 - INFO - [40.39667582511902 s] Epoch 33. Train step 300. Loss 0.16131585836410522. Loss log likelihood 0. Loss perceptual 0.16131585836410522
+2021-08-09 20:31:39,371 - INFO - [53.81771183013916 s] Epoch 33. Train step 400. Loss 0.16236203908920288. Loss log likelihood 0. Loss perceptual 0.16236203908920288
+2021-08-09 20:31:52,763 - INFO - [67.20953440666199 s] Epoch 33. Train step 500. Loss 0.18793585896492004. Loss log likelihood 0. Loss perceptual 0.18793585896492004
+2021-08-09 20:32:06,205 - INFO - [80.65237855911255 s] Epoch 33. Train step 600. Loss 0.1341370791196823. Loss log likelihood 0. Loss perceptual 0.1341370791196823
+2021-08-09 20:32:19,662 - INFO - [94.10916352272034 s] Epoch 33. Train step 700. Loss 0.16300925612449646. Loss log likelihood 0. Loss perceptual 0.16300925612449646
+2021-08-09 20:32:32,946 - INFO - [107.39297652244568 s] Epoch 33. Train step 800. Loss 0.17306962609291077. Loss log likelihood 0. Loss perceptual 0.17306962609291077
+2021-08-09 20:32:46,067 - INFO - [120.51407957077026 s] Epoch 33. Train step 900. Loss 0.14918696880340576. Loss log likelihood 0. Loss perceptual 0.14918696880340576
+2021-08-09 20:32:59,244 - INFO - [133.69094347953796 s] Epoch 33. Train step 1000. Loss 0.1736716330051422. Loss log likelihood 0. Loss perceptual 0.1736716330051422
+2021-08-09 20:33:12,410 - INFO - [146.857102394104 s] Epoch 33. Train step 1100. Loss 0.17677944898605347. Loss log likelihood 0. Loss perceptual 0.17677944898605347
+2021-08-09 20:33:19,120 - INFO - Training Epoch 33 has completed. Time: 153.56695008277893
+2021-08-09 20:33:21,419 - INFO - [2.2985546588897705 s] Epoch 33. Evaluation step 0
+2021-08-09 20:33:27,429 - INFO - Evaluation Epoch 33 has completed. Time: 8.308401823043823
+2021-08-09 20:33:27,475 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_33
+2021-08-09 20:33:27,622 - INFO - [0.1465010643005371 s] Epoch 34. Train step 0. Loss 0.21545881032943726. Loss log likelihood 0. Loss perceptual 0.21545881032943726
+2021-08-09 20:33:40,776 - INFO - [13.300246953964233 s] Epoch 34. Train step 100. Loss 0.14989253878593445. Loss log likelihood 0. Loss perceptual 0.14989253878593445
+2021-08-09 20:33:53,882 - INFO - [26.40664839744568 s] Epoch 34. Train step 200. Loss 0.15786555409431458. Loss log likelihood 0. Loss perceptual 0.15786555409431458
+2021-08-09 20:34:06,983 - INFO - [39.50733828544617 s] Epoch 34. Train step 300. Loss 0.152971088886261. Loss log likelihood 0. Loss perceptual 0.152971088886261
+2021-08-09 20:34:20,123 - INFO - [52.64818286895752 s] Epoch 34. Train step 400. Loss 0.18586236238479614. Loss log likelihood 0. Loss perceptual 0.18586236238479614
+2021-08-09 20:34:33,282 - INFO - [65.80639219284058 s] Epoch 34. Train step 500. Loss 0.18557797372341156. Loss log likelihood 0. Loss perceptual 0.18557797372341156
+2021-08-09 20:34:46,414 - INFO - [78.9386420249939 s] Epoch 34. Train step 600. Loss 0.12690024077892303. Loss log likelihood 0. Loss perceptual 0.12690024077892303
+2021-08-09 20:34:59,642 - INFO - [92.16666793823242 s] Epoch 34. Train step 700. Loss 0.21638838946819305. Loss log likelihood 0. Loss perceptual 0.21638838946819305
+2021-08-09 20:35:12,828 - INFO - [105.35282182693481 s] Epoch 34. Train step 800. Loss 0.16935914754867554. Loss log likelihood 0. Loss perceptual 0.16935914754867554
+2021-08-09 20:35:26,072 - INFO - [118.59718108177185 s] Epoch 34. Train step 900. Loss 0.14881175756454468. Loss log likelihood 0. Loss perceptual 0.14881175756454468
+2021-08-09 20:35:39,344 - INFO - [131.86842107772827 s] Epoch 34. Train step 1000. Loss 0.13464221358299255. Loss log likelihood 0. Loss perceptual 0.13464221358299255
+2021-08-09 20:35:52,547 - INFO - [145.0712125301361 s] Epoch 34. Train step 1100. Loss 0.13827529549598694. Loss log likelihood 0. Loss perceptual 0.13827529549598694
+2021-08-09 20:35:59,313 - INFO - Training Epoch 34 has completed. Time: 151.83807587623596
+2021-08-09 20:36:01,615 - INFO - [2.301340341567993 s] Epoch 34. Evaluation step 0
+2021-08-09 20:36:07,627 - INFO - Evaluation Epoch 34 has completed. Time: 8.312825441360474
+2021-08-09 20:36:07,674 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_34
+2021-08-09 20:36:07,821 - INFO - [0.14638924598693848 s] Epoch 35. Train step 0. Loss 0.1573341190814972. Loss log likelihood 0. Loss perceptual 0.1573341190814972
+2021-08-09 20:36:21,072 - INFO - [13.397433042526245 s] Epoch 35. Train step 100. Loss 0.20547397434711456. Loss log likelihood 0. Loss perceptual 0.20547397434711456
+2021-08-09 20:36:34,320 - INFO - [26.64596652984619 s] Epoch 35. Train step 200. Loss 0.19321668148040771. Loss log likelihood 0. Loss perceptual 0.19321668148040771
+2021-08-09 20:36:47,556 - INFO - [39.881797552108765 s] Epoch 35. Train step 300. Loss 0.19706539809703827. Loss log likelihood 0. Loss perceptual 0.19706539809703827
+2021-08-09 20:37:00,810 - INFO - [53.13541531562805 s] Epoch 35. Train step 400. Loss 0.15741823613643646. Loss log likelihood 0. Loss perceptual 0.15741823613643646
+2021-08-09 20:37:14,092 - INFO - [66.41749167442322 s] Epoch 35. Train step 500. Loss 0.19373396039009094. Loss log likelihood 0. Loss perceptual 0.19373396039009094
+2021-08-09 20:37:27,387 - INFO - [79.71246218681335 s] Epoch 35. Train step 600. Loss 0.20510244369506836. Loss log likelihood 0. Loss perceptual 0.20510244369506836
+2021-08-09 20:37:40,640 - INFO - [92.96606993675232 s] Epoch 35. Train step 700. Loss 0.15573695302009583. Loss log likelihood 0. Loss perceptual 0.15573695302009583
+2021-08-09 20:37:53,914 - INFO - [106.2394814491272 s] Epoch 35. Train step 800. Loss 0.1734437346458435. Loss log likelihood 0. Loss perceptual 0.1734437346458435
+2021-08-09 20:38:07,173 - INFO - [119.49843120574951 s] Epoch 35. Train step 900. Loss 0.21209636330604553. Loss log likelihood 0. Loss perceptual 0.21209636330604553
+2021-08-09 20:38:20,390 - INFO - [132.7151815891266 s] Epoch 35. Train step 1000. Loss 0.21584881842136383. Loss log likelihood 0. Loss perceptual 0.21584881842136383
+2021-08-09 20:38:33,658 - INFO - [145.98409914970398 s] Epoch 35. Train step 1100. Loss 0.15574756264686584. Loss log likelihood 0. Loss perceptual 0.15574756264686584
+2021-08-09 20:38:40,367 - INFO - Training Epoch 35 has completed. Time: 152.69271731376648
+2021-08-09 20:38:42,668 - INFO - [2.3005659580230713 s] Epoch 35. Evaluation step 0
+2021-08-09 20:38:48,676 - INFO - Evaluation Epoch 35 has completed. Time: 8.308097124099731
+2021-08-09 20:38:48,722 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_35
+2021-08-09 20:38:48,866 - INFO - [0.14417004585266113 s] Epoch 36. Train step 0. Loss 0.2068566083908081. Loss log likelihood 0. Loss perceptual 0.2068566083908081
+2021-08-09 20:39:01,984 - INFO - [13.261463642120361 s] Epoch 36. Train step 100. Loss 0.13085931539535522. Loss log likelihood 0. Loss perceptual 0.13085931539535522
+2021-08-09 20:39:15,103 - INFO - [26.381176948547363 s] Epoch 36. Train step 200. Loss 0.18039458990097046. Loss log likelihood 0. Loss perceptual 0.18039458990097046
+2021-08-09 20:39:28,242 - INFO - [39.51990008354187 s] Epoch 36. Train step 300. Loss 0.1546936333179474. Loss log likelihood 0. Loss perceptual 0.1546936333179474
+2021-08-09 20:39:41,424 - INFO - [52.70123863220215 s] Epoch 36. Train step 400. Loss 0.148808091878891. Loss log likelihood 0. Loss perceptual 0.148808091878891
+2021-08-09 20:39:54,570 - INFO - [65.84782004356384 s] Epoch 36. Train step 500. Loss 0.1631784439086914. Loss log likelihood 0. Loss perceptual 0.1631784439086914
+2021-08-09 20:40:07,685 - INFO - [78.96279883384705 s] Epoch 36. Train step 600. Loss 0.17393791675567627. Loss log likelihood 0. Loss perceptual 0.17393791675567627
+2021-08-09 20:40:20,796 - INFO - [92.07418847084045 s] Epoch 36. Train step 700. Loss 0.1330537647008896. Loss log likelihood 0. Loss perceptual 0.1330537647008896
+2021-08-09 20:40:33,901 - INFO - [105.17903304100037 s] Epoch 36. Train step 800. Loss 0.16466829180717468. Loss log likelihood 0. Loss perceptual 0.16466829180717468
+2021-08-09 20:40:47,051 - INFO - [118.32916212081909 s] Epoch 36. Train step 900. Loss 0.16256609559059143. Loss log likelihood 0. Loss perceptual 0.16256609559059143
+2021-08-09 20:41:00,254 - INFO - [131.53182125091553 s] Epoch 36. Train step 1000. Loss 0.15314674377441406. Loss log likelihood 0. Loss perceptual 0.15314674377441406
+2021-08-09 20:41:13,374 - INFO - [144.65180015563965 s] Epoch 36. Train step 1100. Loss 0.20272232592105865. Loss log likelihood 0. Loss perceptual 0.20272232592105865
+2021-08-09 20:41:20,066 - INFO - Training Epoch 36 has completed. Time: 151.3436963558197
+2021-08-09 20:41:22,371 - INFO - [2.304276943206787 s] Epoch 36. Evaluation step 0
+2021-08-09 20:41:28,384 - INFO - Evaluation Epoch 36 has completed. Time: 8.317355871200562
+2021-08-09 20:41:28,429 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_36
+2021-08-09 20:41:28,574 - INFO - [0.14407753944396973 s] Epoch 37. Train step 0. Loss 0.17841970920562744. Loss log likelihood 0. Loss perceptual 0.17841970920562744
+2021-08-09 20:41:41,706 - INFO - [13.276296377182007 s] Epoch 37. Train step 100. Loss 0.1940845102071762. Loss log likelihood 0. Loss perceptual 0.1940845102071762
+2021-08-09 20:41:54,821 - INFO - [26.391076803207397 s] Epoch 37. Train step 200. Loss 0.19514769315719604. Loss log likelihood 0. Loss perceptual 0.19514769315719604
+2021-08-09 20:42:07,952 - INFO - [39.52172780036926 s] Epoch 37. Train step 300. Loss 0.17042985558509827. Loss log likelihood 0. Loss perceptual 0.17042985558509827
+2021-08-09 20:42:21,082 - INFO - [52.65165424346924 s] Epoch 37. Train step 400. Loss 0.20302262902259827. Loss log likelihood 0. Loss perceptual 0.20302262902259827
+2021-08-09 20:42:34,205 - INFO - [65.77545976638794 s] Epoch 37. Train step 500. Loss 0.240373894572258. Loss log likelihood 0. Loss perceptual 0.240373894572258
+2021-08-09 20:42:47,377 - INFO - [78.94708609580994 s] Epoch 37. Train step 600. Loss 0.18327191472053528. Loss log likelihood 0. Loss perceptual 0.18327191472053528
+2021-08-09 20:43:00,472 - INFO - [92.04169011116028 s] Epoch 37. Train step 700. Loss 0.1646251678466797. Loss log likelihood 0. Loss perceptual 0.1646251678466797
+2021-08-09 20:43:13,664 - INFO - [105.23390483856201 s] Epoch 37. Train step 800. Loss 0.16327929496765137. Loss log likelihood 0. Loss perceptual 0.16327929496765137
+2021-08-09 20:43:26,779 - INFO - [118.34869861602783 s] Epoch 37. Train step 900. Loss 0.15106751024723053. Loss log likelihood 0. Loss perceptual 0.15106751024723053
+2021-08-09 20:43:39,877 - INFO - [131.44746208190918 s] Epoch 37. Train step 1000. Loss 0.19478726387023926. Loss log likelihood 0. Loss perceptual 0.19478726387023926
+2021-08-09 20:43:53,005 - INFO - [144.57467937469482 s] Epoch 37. Train step 1100. Loss 0.23014913499355316. Loss log likelihood 0. Loss perceptual 0.23014913499355316
+2021-08-09 20:43:59,708 - INFO - Training Epoch 37 has completed. Time: 151.27807116508484
+2021-08-09 20:44:02,002 - INFO - [2.294088363647461 s] Epoch 37. Evaluation step 0
+2021-08-09 20:44:08,011 - INFO - Evaluation Epoch 37 has completed. Time: 8.302634954452515
+2021-08-09 20:44:08,058 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_37
+2021-08-09 20:44:08,205 - INFO - [0.14583754539489746 s] Epoch 38. Train step 0. Loss 0.17547249794006348. Loss log likelihood 0. Loss perceptual 0.17547249794006348
+2021-08-09 20:44:21,351 - INFO - [13.29175615310669 s] Epoch 38. Train step 100. Loss 0.1568872332572937. Loss log likelihood 0. Loss perceptual 0.1568872332572937
+2021-08-09 20:44:34,508 - INFO - [26.449275493621826 s] Epoch 38. Train step 200. Loss 0.15954521298408508. Loss log likelihood 0. Loss perceptual 0.15954521298408508
+2021-08-09 20:44:47,618 - INFO - [39.55837631225586 s] Epoch 38. Train step 300. Loss 0.19860520958900452. Loss log likelihood 0. Loss perceptual 0.19860520958900452
+2021-08-09 20:45:00,761 - INFO - [52.702364921569824 s] Epoch 38. Train step 400. Loss 0.20094943046569824. Loss log likelihood 0. Loss perceptual 0.20094943046569824
+2021-08-09 20:45:13,935 - INFO - [65.87588429450989 s] Epoch 38. Train step 500. Loss 0.15937349200248718. Loss log likelihood 0. Loss perceptual 0.15937349200248718
+2021-08-09 20:45:27,066 - INFO - [79.00651788711548 s] Epoch 38. Train step 600. Loss 0.2042953372001648. Loss log likelihood 0. Loss perceptual 0.2042953372001648
+2021-08-09 20:45:40,223 - INFO - [92.16380548477173 s] Epoch 38. Train step 700. Loss 0.1981552094221115. Loss log likelihood 0. Loss perceptual 0.1981552094221115
+2021-08-09 20:45:53,416 - INFO - [105.35698866844177 s] Epoch 38. Train step 800. Loss 0.17044098675251007. Loss log likelihood 0. Loss perceptual 0.17044098675251007
+2021-08-09 20:46:06,598 - INFO - [118.53868961334229 s] Epoch 38. Train step 900. Loss 0.13203376531600952. Loss log likelihood 0. Loss perceptual 0.13203376531600952
+2021-08-09 20:46:19,819 - INFO - [131.75951886177063 s] Epoch 38. Train step 1000. Loss 0.17474961280822754. Loss log likelihood 0. Loss perceptual 0.17474961280822754
+2021-08-09 20:46:32,999 - INFO - [144.94004654884338 s] Epoch 38. Train step 1100. Loss 0.17468670010566711. Loss log likelihood 0. Loss perceptual 0.17468670010566711
+2021-08-09 20:46:39,722 - INFO - Training Epoch 38 has completed. Time: 151.66309022903442
+2021-08-09 20:46:42,023 - INFO - [2.3000829219818115 s] Epoch 38. Evaluation step 0
+2021-08-09 20:46:48,033 - INFO - Evaluation Epoch 38 has completed. Time: 8.31030011177063
+2021-08-09 20:46:48,079 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_38
+2021-08-09 20:46:48,223 - INFO - [0.1432819366455078 s] Epoch 39. Train step 0. Loss 0.19166749715805054. Loss log likelihood 0. Loss perceptual 0.19166749715805054
+2021-08-09 20:47:01,363 - INFO - [13.282754182815552 s] Epoch 39. Train step 100. Loss 0.18987426161766052. Loss log likelihood 0. Loss perceptual 0.18987426161766052
+2021-08-09 20:47:14,469 - INFO - [26.389488458633423 s] Epoch 39. Train step 200. Loss 0.1636914312839508. Loss log likelihood 0. Loss perceptual 0.1636914312839508
+2021-08-09 20:47:27,713 - INFO - [39.63312101364136 s] Epoch 39. Train step 300. Loss 0.1965140402317047. Loss log likelihood 0. Loss perceptual 0.1965140402317047
+2021-08-09 20:47:40,956 - INFO - [52.87606906890869 s] Epoch 39. Train step 400. Loss 0.16361114382743835. Loss log likelihood 0. Loss perceptual 0.16361114382743835
+2021-08-09 20:47:54,138 - INFO - [66.05834531784058 s] Epoch 39. Train step 500. Loss 0.16087988018989563. Loss log likelihood 0. Loss perceptual 0.16087988018989563
+2021-08-09 20:48:07,294 - INFO - [79.21445035934448 s] Epoch 39. Train step 600. Loss 0.1777096539735794. Loss log likelihood 0. Loss perceptual 0.1777096539735794
+2021-08-09 20:48:20,437 - INFO - [92.35702395439148 s] Epoch 39. Train step 700. Loss 0.1734136939048767. Loss log likelihood 0. Loss perceptual 0.1734136939048767
+2021-08-09 20:48:33,641 - INFO - [105.56104922294617 s] Epoch 39. Train step 800. Loss 0.1641400158405304. Loss log likelihood 0. Loss perceptual 0.1641400158405304
+2021-08-09 20:48:46,844 - INFO - [118.76413869857788 s] Epoch 39. Train step 900. Loss 0.16147129237651825. Loss log likelihood 0. Loss perceptual 0.16147129237651825
+2021-08-09 20:49:00,014 - INFO - [131.93471264839172 s] Epoch 39. Train step 1000. Loss 0.20458342134952545. Loss log likelihood 0. Loss perceptual 0.20458342134952545
+2021-08-09 20:49:13,137 - INFO - [145.05682587623596 s] Epoch 39. Train step 1100. Loss 0.2091842144727707. Loss log likelihood 0. Loss perceptual 0.2091842144727707
+2021-08-09 20:49:19,811 - INFO - Training Epoch 39 has completed. Time: 151.7315354347229
+2021-08-09 20:49:22,117 - INFO - [2.3053441047668457 s] Epoch 39. Evaluation step 0
+2021-08-09 20:49:28,130 - INFO - Evaluation Epoch 39 has completed. Time: 8.318641901016235
+2021-08-09 20:49:28,176 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_39
+2021-08-09 20:49:28,321 - INFO - [0.14407896995544434 s] Epoch 40. Train step 0. Loss 0.16062894463539124. Loss log likelihood 0. Loss perceptual 0.16062894463539124
+2021-08-09 20:49:41,465 - INFO - [13.288416385650635 s] Epoch 40. Train step 100. Loss 0.1911235749721527. Loss log likelihood 0. Loss perceptual 0.1911235749721527
+2021-08-09 20:49:54,560 - INFO - [26.382734537124634 s] Epoch 40. Train step 200. Loss 0.19480113685131073. Loss log likelihood 0. Loss perceptual 0.19480113685131073
+2021-08-09 20:50:07,712 - INFO - [39.53532791137695 s] Epoch 40. Train step 300. Loss 0.1735583245754242. Loss log likelihood 0. Loss perceptual 0.1735583245754242
+2021-08-09 20:50:20,812 - INFO - [52.635276317596436 s] Epoch 40. Train step 400. Loss 0.17766885459423065. Loss log likelihood 0. Loss perceptual 0.17766885459423065
+2021-08-09 20:50:33,905 - INFO - [65.72835516929626 s] Epoch 40. Train step 500. Loss 0.16962796449661255. Loss log likelihood 0. Loss perceptual 0.16962796449661255
+2021-08-09 20:50:47,018 - INFO - [78.84075331687927 s] Epoch 40. Train step 600. Loss 0.16477274894714355. Loss log likelihood 0. Loss perceptual 0.16477274894714355
+2021-08-09 20:51:00,121 - INFO - [91.94462823867798 s] Epoch 40. Train step 700. Loss 0.18530681729316711. Loss log likelihood 0. Loss perceptual 0.18530681729316711
+2021-08-09 20:51:13,253 - INFO - [105.07654881477356 s] Epoch 40. Train step 800. Loss 0.19299080967903137. Loss log likelihood 0. Loss perceptual 0.19299080967903137
+2021-08-09 20:51:26,371 - INFO - [118.19415426254272 s] Epoch 40. Train step 900. Loss 0.15159226953983307. Loss log likelihood 0. Loss perceptual 0.15159226953983307
+2021-08-09 20:51:39,496 - INFO - [131.3186388015747 s] Epoch 40. Train step 1000. Loss 0.19549138844013214. Loss log likelihood 0. Loss perceptual 0.19549138844013214
+2021-08-09 20:51:52,726 - INFO - [144.54931020736694 s] Epoch 40. Train step 1100. Loss 0.17170999944210052. Loss log likelihood 0. Loss perceptual 0.17170999944210052
+2021-08-09 20:51:59,410 - INFO - Training Epoch 40 has completed. Time: 151.2326865196228
+2021-08-09 20:52:01,715 - INFO - [2.305074691772461 s] Epoch 40. Evaluation step 0
+2021-08-09 20:52:07,733 - INFO - Evaluation Epoch 40 has completed. Time: 8.322417259216309
+2021-08-09 20:52:07,780 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_40
+2021-08-09 20:52:07,924 - INFO - [0.14371371269226074 s] Epoch 41. Train step 0. Loss 0.1601223647594452. Loss log likelihood 0. Loss perceptual 0.1601223647594452
+2021-08-09 20:52:21,085 - INFO - [13.304357528686523 s] Epoch 41. Train step 100. Loss 0.12596622109413147. Loss log likelihood 0. Loss perceptual 0.12596622109413147
+2021-08-09 20:52:34,312 - INFO - [26.53160333633423 s] Epoch 41. Train step 200. Loss 0.20421624183654785. Loss log likelihood 0. Loss perceptual 0.20421624183654785
+2021-08-09 20:52:47,483 - INFO - [39.70315408706665 s] Epoch 41. Train step 300. Loss 0.17443114519119263. Loss log likelihood 0. Loss perceptual 0.17443114519119263
+2021-08-09 20:53:00,622 - INFO - [52.841532707214355 s] Epoch 41. Train step 400. Loss 0.15503251552581787. Loss log likelihood 0. Loss perceptual 0.15503251552581787
+2021-08-09 20:53:13,824 - INFO - [66.0436270236969 s] Epoch 41. Train step 500. Loss 0.1676415205001831. Loss log likelihood 0. Loss perceptual 0.1676415205001831
+2021-08-09 20:53:26,941 - INFO - [79.16082286834717 s] Epoch 41. Train step 600. Loss 0.1971263289451599. Loss log likelihood 0. Loss perceptual 0.1971263289451599
+2021-08-09 20:53:40,055 - INFO - [92.27464842796326 s] Epoch 41. Train step 700. Loss 0.15715578198432922. Loss log likelihood 0. Loss perceptual 0.15715578198432922
+2021-08-09 20:53:53,160 - INFO - [105.37962007522583 s] Epoch 41. Train step 800. Loss 0.21232765913009644. Loss log likelihood 0. Loss perceptual 0.21232765913009644
+2021-08-09 20:54:06,270 - INFO - [118.48955869674683 s] Epoch 41. Train step 900. Loss 0.16314411163330078. Loss log likelihood 0. Loss perceptual 0.16314411163330078
+2021-08-09 20:54:19,439 - INFO - [131.6588101387024 s] Epoch 41. Train step 1000. Loss 0.16983801126480103. Loss log likelihood 0. Loss perceptual 0.16983801126480103
+2021-08-09 20:54:32,560 - INFO - [144.77968001365662 s] Epoch 41. Train step 1100. Loss 0.1472264677286148. Loss log likelihood 0. Loss perceptual 0.1472264677286148
+2021-08-09 20:54:39,260 - INFO - Training Epoch 41 has completed. Time: 151.48001289367676
+2021-08-09 20:54:41,555 - INFO - [2.2945547103881836 s] Epoch 41. Evaluation step 0
+2021-08-09 20:54:47,562 - INFO - Evaluation Epoch 41 has completed. Time: 8.300977945327759
+2021-08-09 20:54:47,606 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_41
+2021-08-09 20:54:47,750 - INFO - [0.14247345924377441 s] Epoch 42. Train step 0. Loss 0.1942138373851776. Loss log likelihood 0. Loss perceptual 0.1942138373851776
+2021-08-09 20:55:00,926 - INFO - [13.318698644638062 s] Epoch 42. Train step 100. Loss 0.17632082104682922. Loss log likelihood 0. Loss perceptual 0.17632082104682922
+2021-08-09 20:55:14,037 - INFO - [26.42956566810608 s] Epoch 42. Train step 200. Loss 0.1350352019071579. Loss log likelihood 0. Loss perceptual 0.1350352019071579
+2021-08-09 20:55:27,131 - INFO - [39.52386450767517 s] Epoch 42. Train step 300. Loss 0.13607999682426453. Loss log likelihood 0. Loss perceptual 0.13607999682426453
+2021-08-09 20:55:40,294 - INFO - [52.687365770339966 s] Epoch 42. Train step 400. Loss 0.21615904569625854. Loss log likelihood 0. Loss perceptual 0.21615904569625854
+2021-08-09 20:55:53,424 - INFO - [65.8171124458313 s] Epoch 42. Train step 500. Loss 0.12856486439704895. Loss log likelihood 0. Loss perceptual 0.12856486439704895
+2021-08-09 20:56:06,541 - INFO - [78.93400478363037 s] Epoch 42. Train step 600. Loss 0.17461401224136353. Loss log likelihood 0. Loss perceptual 0.17461401224136353
+2021-08-09 20:56:19,654 - INFO - [92.04648542404175 s] Epoch 42. Train step 700. Loss 0.1504976749420166. Loss log likelihood 0. Loss perceptual 0.1504976749420166
+2021-08-09 20:56:32,751 - INFO - [105.14361214637756 s] Epoch 42. Train step 800. Loss 0.13162244856357574. Loss log likelihood 0. Loss perceptual 0.13162244856357574
+2021-08-09 20:56:45,900 - INFO - [118.29300451278687 s] Epoch 42. Train step 900. Loss 0.18902121484279633. Loss log likelihood 0. Loss perceptual 0.18902121484279633
+2021-08-09 20:56:59,142 - INFO - [131.53442072868347 s] Epoch 42. Train step 1000. Loss 0.15287944674491882. Loss log likelihood 0. Loss perceptual 0.15287944674491882
+2021-08-09 20:57:12,393 - INFO - [144.78563451766968 s] Epoch 42. Train step 1100. Loss 0.20242846012115479. Loss log likelihood 0. Loss perceptual 0.20242846012115479
+2021-08-09 20:57:19,122 - INFO - Training Epoch 42 has completed. Time: 151.51487731933594
+2021-08-09 20:57:21,421 - INFO - [2.2984750270843506 s] Epoch 42. Evaluation step 0
+2021-08-09 20:57:27,429 - INFO - Evaluation Epoch 42 has completed. Time: 8.306896924972534
+2021-08-09 20:57:27,475 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_42
+2021-08-09 20:57:27,617 - INFO - [0.14131569862365723 s] Epoch 43. Train step 0. Loss 0.1584472954273224. Loss log likelihood 0. Loss perceptual 0.1584472954273224
+2021-08-09 20:57:40,880 - INFO - [13.404821395874023 s] Epoch 43. Train step 100. Loss 0.15691417455673218. Loss log likelihood 0. Loss perceptual 0.15691417455673218
+2021-08-09 20:57:54,117 - INFO - [26.641603708267212 s] Epoch 43. Train step 200. Loss 0.10681823641061783. Loss log likelihood 0. Loss perceptual 0.10681823641061783
+2021-08-09 20:58:07,327 - INFO - [39.85202670097351 s] Epoch 43. Train step 300. Loss 0.18277379870414734. Loss log likelihood 0. Loss perceptual 0.18277379870414734
+2021-08-09 20:58:20,608 - INFO - [53.13281607627869 s] Epoch 43. Train step 400. Loss 0.1652941107749939. Loss log likelihood 0. Loss perceptual 0.1652941107749939
+2021-08-09 20:58:33,782 - INFO - [66.3065664768219 s] Epoch 43. Train step 500. Loss 0.21478411555290222. Loss log likelihood 0. Loss perceptual 0.21478411555290222
+2021-08-09 20:58:47,017 - INFO - [79.54138588905334 s] Epoch 43. Train step 600. Loss 0.19182120263576508. Loss log likelihood 0. Loss perceptual 0.19182120263576508
+2021-08-09 20:59:00,274 - INFO - [92.7991087436676 s] Epoch 43. Train step 700. Loss 0.17317844927310944. Loss log likelihood 0. Loss perceptual 0.17317844927310944
+2021-08-09 20:59:13,526 - INFO - [106.05068898200989 s] Epoch 43. Train step 800. Loss 0.189863920211792. Loss log likelihood 0. Loss perceptual 0.189863920211792
+2021-08-09 20:59:26,697 - INFO - [119.22181439399719 s] Epoch 43. Train step 900. Loss 0.18305239081382751. Loss log likelihood 0. Loss perceptual 0.18305239081382751
+2021-08-09 20:59:39,812 - INFO - [132.3367211818695 s] Epoch 43. Train step 1000. Loss 0.15714579820632935. Loss log likelihood 0. Loss perceptual 0.15714579820632935
+2021-08-09 20:59:52,942 - INFO - [145.46641898155212 s] Epoch 43. Train step 1100. Loss 0.1613013744354248. Loss log likelihood 0. Loss perceptual 0.1613013744354248
+2021-08-09 20:59:59,615 - INFO - Training Epoch 43 has completed. Time: 152.14009547233582
+2021-08-09 21:00:01,922 - INFO - [2.3056588172912598 s] Epoch 43. Evaluation step 0
+2021-08-09 21:00:07,925 - INFO - Evaluation Epoch 43 has completed. Time: 8.308885097503662
+2021-08-09 21:00:07,968 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_43
+2021-08-09 21:00:08,111 - INFO - [0.1421041488647461 s] Epoch 44. Train step 0. Loss 0.17021086812019348. Loss log likelihood 0. Loss perceptual 0.17021086812019348
+2021-08-09 21:00:21,263 - INFO - [13.294329643249512 s] Epoch 44. Train step 100. Loss 0.17777158319950104. Loss log likelihood 0. Loss perceptual 0.17777158319950104
+2021-08-09 21:00:34,372 - INFO - [26.402782917022705 s] Epoch 44. Train step 200. Loss 0.2074304223060608. Loss log likelihood 0. Loss perceptual 0.2074304223060608
+2021-08-09 21:00:47,505 - INFO - [39.536240100860596 s] Epoch 44. Train step 300. Loss 0.19918492436408997. Loss log likelihood 0. Loss perceptual 0.19918492436408997
+2021-08-09 21:01:00,678 - INFO - [52.70968413352966 s] Epoch 44. Train step 400. Loss 0.18882155418395996. Loss log likelihood 0. Loss perceptual 0.18882155418395996
+2021-08-09 21:01:13,934 - INFO - [65.96554899215698 s] Epoch 44. Train step 500. Loss 0.1992558091878891. Loss log likelihood 0. Loss perceptual 0.1992558091878891
+2021-08-09 21:01:27,128 - INFO - [79.15922284126282 s] Epoch 44. Train step 600. Loss 0.12366223335266113. Loss log likelihood 0. Loss perceptual 0.12366223335266113
+2021-08-09 21:01:40,381 - INFO - [92.41263842582703 s] Epoch 44. Train step 700. Loss 0.14229807257652283. Loss log likelihood 0. Loss perceptual 0.14229807257652283
+2021-08-09 21:01:53,574 - INFO - [105.60491919517517 s] Epoch 44. Train step 800. Loss 0.1523425281047821. Loss log likelihood 0. Loss perceptual 0.1523425281047821
+2021-08-09 21:02:06,810 - INFO - [118.84080934524536 s] Epoch 44. Train step 900. Loss 0.20402392745018005. Loss log likelihood 0. Loss perceptual 0.20402392745018005
+2021-08-09 21:02:20,022 - INFO - [132.05316162109375 s] Epoch 44. Train step 1000. Loss 0.17240098118782043. Loss log likelihood 0. Loss perceptual 0.17240098118782043
+2021-08-09 21:02:33,266 - INFO - [145.2977418899536 s] Epoch 44. Train step 1100. Loss 0.188193678855896. Loss log likelihood 0. Loss perceptual 0.188193678855896
+2021-08-09 21:02:39,988 - INFO - Training Epoch 44 has completed. Time: 152.01953196525574
+2021-08-09 21:02:42,290 - INFO - [2.3014516830444336 s] Epoch 44. Evaluation step 0
+2021-08-09 21:02:48,297 - INFO - Evaluation Epoch 44 has completed. Time: 8.308398246765137
+2021-08-09 21:02:48,342 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_44
+2021-08-09 21:02:48,487 - INFO - [0.14422273635864258 s] Epoch 45. Train step 0. Loss 0.16857635974884033. Loss log likelihood 0. Loss perceptual 0.16857635974884033
+2021-08-09 21:03:01,624 - INFO - [13.281039237976074 s] Epoch 45. Train step 100. Loss 0.2059563845396042. Loss log likelihood 0. Loss perceptual 0.2059563845396042
+2021-08-09 21:03:14,744 - INFO - [26.40085220336914 s] Epoch 45. Train step 200. Loss 0.17699706554412842. Loss log likelihood 0. Loss perceptual 0.17699706554412842
+2021-08-09 21:03:27,919 - INFO - [39.57540464401245 s] Epoch 45. Train step 300. Loss 0.1757507473230362. Loss log likelihood 0. Loss perceptual 0.1757507473230362
+2021-08-09 21:03:41,122 - INFO - [52.77879548072815 s] Epoch 45. Train step 400. Loss 0.17643433809280396. Loss log likelihood 0. Loss perceptual 0.17643433809280396
+2021-08-09 21:03:54,256 - INFO - [65.91289830207825 s] Epoch 45. Train step 500. Loss 0.22042220830917358. Loss log likelihood 0. Loss perceptual 0.22042220830917358
+2021-08-09 21:04:07,398 - INFO - [79.05535435676575 s] Epoch 45. Train step 600. Loss 0.21190568804740906. Loss log likelihood 0. Loss perceptual 0.21190568804740906
+2021-08-09 21:04:20,572 - INFO - [92.22930479049683 s] Epoch 45. Train step 700. Loss 0.1663098931312561. Loss log likelihood 0. Loss perceptual 0.1663098931312561
+2021-08-09 21:04:33,707 - INFO - [105.3637638092041 s] Epoch 45. Train step 800. Loss 0.18461310863494873. Loss log likelihood 0. Loss perceptual 0.18461310863494873
+2021-08-09 21:04:46,862 - INFO - [118.51862263679504 s] Epoch 45. Train step 900. Loss 0.14617130160331726. Loss log likelihood 0. Loss perceptual 0.14617130160331726
+2021-08-09 21:05:00,027 - INFO - [131.68362641334534 s] Epoch 45. Train step 1000. Loss 0.1390625387430191. Loss log likelihood 0. Loss perceptual 0.1390625387430191
+2021-08-09 21:05:13,301 - INFO - [144.9582381248474 s] Epoch 45. Train step 1100. Loss 0.19770103693008423. Loss log likelihood 0. Loss perceptual 0.19770103693008423
+2021-08-09 21:05:20,075 - INFO - Training Epoch 45 has completed. Time: 151.73234367370605
+2021-08-09 21:05:22,381 - INFO - [2.304999351501465 s] Epoch 45. Evaluation step 0
+2021-08-09 21:05:28,398 - INFO - Evaluation Epoch 45 has completed. Time: 8.32163143157959
+2021-08-09 21:05:28,444 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_45
+2021-08-09 21:05:28,589 - INFO - [0.144134521484375 s] Epoch 46. Train step 0. Loss 0.15782925486564636. Loss log likelihood 0. Loss perceptual 0.15782925486564636
+2021-08-09 21:05:42,027 - INFO - [13.582515478134155 s] Epoch 46. Train step 100. Loss 0.18016944825649261. Loss log likelihood 0. Loss perceptual 0.18016944825649261
+2021-08-09 21:05:55,371 - INFO - [26.92618465423584 s] Epoch 46. Train step 200. Loss 0.13166767358779907. Loss log likelihood 0. Loss perceptual 0.13166767358779907
+2021-08-09 21:06:08,816 - INFO - [40.37082767486572 s] Epoch 46. Train step 300. Loss 0.16604763269424438. Loss log likelihood 0. Loss perceptual 0.16604763269424438
+2021-08-09 21:06:22,249 - INFO - [53.80441451072693 s] Epoch 46. Train step 400. Loss 0.1760406494140625. Loss log likelihood 0. Loss perceptual 0.1760406494140625
+2021-08-09 21:06:35,697 - INFO - [67.25235414505005 s] Epoch 46. Train step 500. Loss 0.1602180302143097. Loss log likelihood 0. Loss perceptual 0.1602180302143097
+2021-08-09 21:06:49,012 - INFO - [80.56726026535034 s] Epoch 46. Train step 600. Loss 0.19338780641555786. Loss log likelihood 0. Loss perceptual 0.19338780641555786
+2021-08-09 21:07:02,320 - INFO - [93.87554001808167 s] Epoch 46. Train step 700. Loss 0.16970419883728027. Loss log likelihood 0. Loss perceptual 0.16970419883728027
+2021-08-09 21:07:15,672 - INFO - [107.22714948654175 s] Epoch 46. Train step 800. Loss 0.19719548523426056. Loss log likelihood 0. Loss perceptual 0.19719548523426056
+2021-08-09 21:07:28,966 - INFO - [120.52121162414551 s] Epoch 46. Train step 900. Loss 0.14953093230724335. Loss log likelihood 0. Loss perceptual 0.14953093230724335
+2021-08-09 21:07:42,234 - INFO - [133.78914713859558 s] Epoch 46. Train step 1000. Loss 0.1785583347082138. Loss log likelihood 0. Loss perceptual 0.1785583347082138
+2021-08-09 21:07:55,539 - INFO - [147.09437704086304 s] Epoch 46. Train step 1100. Loss 0.21354909241199493. Loss log likelihood 0. Loss perceptual 0.21354909241199493
+2021-08-09 21:08:02,295 - INFO - Training Epoch 46 has completed. Time: 153.84982323646545
+2021-08-09 21:08:04,603 - INFO - [2.307671070098877 s] Epoch 46. Evaluation step 0
+2021-08-09 21:08:10,622 - INFO - Evaluation Epoch 46 has completed. Time: 8.326534271240234
+2021-08-09 21:08:10,668 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_46
+2021-08-09 21:08:10,817 - INFO - [0.147932767868042 s] Epoch 47. Train step 0. Loss 0.16790707409381866. Loss log likelihood 0. Loss perceptual 0.16790707409381866
+2021-08-09 21:08:24,200 - INFO - [13.530562162399292 s] Epoch 47. Train step 100. Loss 0.15531578660011292. Loss log likelihood 0. Loss perceptual 0.15531578660011292
+2021-08-09 21:08:37,476 - INFO - [26.806752920150757 s] Epoch 47. Train step 200. Loss 0.16291376948356628. Loss log likelihood 0. Loss perceptual 0.16291376948356628
+2021-08-09 21:08:50,754 - INFO - [40.084498167037964 s] Epoch 47. Train step 300. Loss 0.19735729694366455. Loss log likelihood 0. Loss perceptual 0.19735729694366455
+2021-08-09 21:09:04,088 - INFO - [53.4185745716095 s] Epoch 47. Train step 400. Loss 0.1556573212146759. Loss log likelihood 0. Loss perceptual 0.1556573212146759
+2021-08-09 21:09:17,442 - INFO - [66.77272486686707 s] Epoch 47. Train step 500. Loss 0.16760118305683136. Loss log likelihood 0. Loss perceptual 0.16760118305683136
+2021-08-09 21:09:30,774 - INFO - [80.1052975654602 s] Epoch 47. Train step 600. Loss 0.12435730546712875. Loss log likelihood 0. Loss perceptual 0.12435730546712875
+2021-08-09 21:09:44,170 - INFO - [93.50129723548889 s] Epoch 47. Train step 700. Loss 0.19780588150024414. Loss log likelihood 0. Loss perceptual 0.19780588150024414
+2021-08-09 21:09:57,505 - INFO - [106.83592438697815 s] Epoch 47. Train step 800. Loss 0.16184574365615845. Loss log likelihood 0. Loss perceptual 0.16184574365615845
+2021-08-09 21:10:10,877 - INFO - [120.20838379859924 s] Epoch 47. Train step 900. Loss 0.2011021226644516. Loss log likelihood 0. Loss perceptual 0.2011021226644516
+2021-08-09 21:10:24,145 - INFO - [133.47551774978638 s] Epoch 47. Train step 1000. Loss 0.1688329428434372. Loss log likelihood 0. Loss perceptual 0.1688329428434372
+2021-08-09 21:10:37,477 - INFO - [146.80755376815796 s] Epoch 47. Train step 1100. Loss 0.20358633995056152. Loss log likelihood 0. Loss perceptual 0.20358633995056152
+2021-08-09 21:10:44,211 - INFO - Training Epoch 47 has completed. Time: 153.5422122478485
+2021-08-09 21:10:46,520 - INFO - [2.3084452152252197 s] Epoch 47. Evaluation step 0
+2021-08-09 21:10:52,539 - INFO - Evaluation Epoch 47 has completed. Time: 8.327008247375488
+2021-08-09 21:10:52,586 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_47
+2021-08-09 21:10:52,731 - INFO - [0.1446211338043213 s] Epoch 48. Train step 0. Loss 0.18408504128456116. Loss log likelihood 0. Loss perceptual 0.18408504128456116
+2021-08-09 21:11:05,917 - INFO - [13.330438613891602 s] Epoch 48. Train step 100. Loss 0.21744275093078613. Loss log likelihood 0. Loss perceptual 0.21744275093078613
+2021-08-09 21:11:19,091 - INFO - [26.504225492477417 s] Epoch 48. Train step 200. Loss 0.1606658548116684. Loss log likelihood 0. Loss perceptual 0.1606658548116684
+2021-08-09 21:11:32,230 - INFO - [39.6430869102478 s] Epoch 48. Train step 300. Loss 0.16920161247253418. Loss log likelihood 0. Loss perceptual 0.16920161247253418
+2021-08-09 21:11:45,354 - INFO - [52.76712369918823 s] Epoch 48. Train step 400. Loss 0.19725435972213745. Loss log likelihood 0. Loss perceptual 0.19725435972213745
+2021-08-09 21:11:58,497 - INFO - [65.91006469726562 s] Epoch 48. Train step 500. Loss 0.17871838808059692. Loss log likelihood 0. Loss perceptual 0.17871838808059692
+2021-08-09 21:12:11,642 - INFO - [79.05484628677368 s] Epoch 48. Train step 600. Loss 0.16335275769233704. Loss log likelihood 0. Loss perceptual 0.16335275769233704
+2021-08-09 21:12:24,733 - INFO - [92.14639544487 s] Epoch 48. Train step 700. Loss 0.18585097789764404. Loss log likelihood 0. Loss perceptual 0.18585097789764404
+2021-08-09 21:12:37,916 - INFO - [105.32918858528137 s] Epoch 48. Train step 800. Loss 0.12197954207658768. Loss log likelihood 0. Loss perceptual 0.12197954207658768
+2021-08-09 21:12:51,021 - INFO - [118.43403005599976 s] Epoch 48. Train step 900. Loss 0.1810218095779419. Loss log likelihood 0. Loss perceptual 0.1810218095779419
+2021-08-09 21:13:04,146 - INFO - [131.55904841423035 s] Epoch 48. Train step 1000. Loss 0.1708003580570221. Loss log likelihood 0. Loss perceptual 0.1708003580570221
+2021-08-09 21:13:17,256 - INFO - [144.66942071914673 s] Epoch 48. Train step 1100. Loss 0.16354812681674957. Loss log likelihood 0. Loss perceptual 0.16354812681674957
+2021-08-09 21:13:23,953 - INFO - Training Epoch 48 has completed. Time: 151.36579036712646
+2021-08-09 21:13:26,261 - INFO - [2.30780029296875 s] Epoch 48. Evaluation step 0
+2021-08-09 21:13:32,280 - INFO - Evaluation Epoch 48 has completed. Time: 8.326886177062988
+2021-08-09 21:13:32,325 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_48
+2021-08-09 21:13:32,470 - INFO - [0.14521312713623047 s] Epoch 49. Train step 0. Loss 0.16738778352737427. Loss log likelihood 0. Loss perceptual 0.16738778352737427
+2021-08-09 21:13:45,604 - INFO - [13.278877258300781 s] Epoch 49. Train step 100. Loss 0.16917496919631958. Loss log likelihood 0. Loss perceptual 0.16917496919631958
+2021-08-09 21:13:58,703 - INFO - [26.377651691436768 s] Epoch 49. Train step 200. Loss 0.20682665705680847. Loss log likelihood 0. Loss perceptual 0.20682665705680847
+2021-08-09 21:14:11,807 - INFO - [39.481247663497925 s] Epoch 49. Train step 300. Loss 0.19583526253700256. Loss log likelihood 0. Loss perceptual 0.19583526253700256
+2021-08-09 21:14:24,939 - INFO - [52.613226652145386 s] Epoch 49. Train step 400. Loss 0.18704870343208313. Loss log likelihood 0. Loss perceptual 0.18704870343208313
+2021-08-09 21:14:38,051 - INFO - [65.72592830657959 s] Epoch 49. Train step 500. Loss 0.1811400204896927. Loss log likelihood 0. Loss perceptual 0.1811400204896927
+2021-08-09 21:14:51,155 - INFO - [78.82980060577393 s] Epoch 49. Train step 600. Loss 0.2028357833623886. Loss log likelihood 0. Loss perceptual 0.2028357833623886
+2021-08-09 21:15:04,281 - INFO - [91.95558738708496 s] Epoch 49. Train step 700. Loss 0.15536707639694214. Loss log likelihood 0. Loss perceptual 0.15536707639694214
+2021-08-09 21:15:17,366 - INFO - [105.04102873802185 s] Epoch 49. Train step 800. Loss 0.16161680221557617. Loss log likelihood 0. Loss perceptual 0.16161680221557617
+2021-08-09 21:15:30,510 - INFO - [118.18447971343994 s] Epoch 49. Train step 900. Loss 0.14424994587898254. Loss log likelihood 0. Loss perceptual 0.14424994587898254
+2021-08-09 21:15:43,593 - INFO - [131.26724672317505 s] Epoch 49. Train step 1000. Loss 0.1553502380847931. Loss log likelihood 0. Loss perceptual 0.1553502380847931
+2021-08-09 21:15:56,695 - INFO - [144.36977648735046 s] Epoch 49. Train step 1100. Loss 0.17836827039718628. Loss log likelihood 0. Loss perceptual 0.17836827039718628
+2021-08-09 21:16:03,410 - INFO - Training Epoch 49 has completed. Time: 151.0845193862915
+2021-08-09 21:16:05,712 - INFO - [2.301673650741577 s] Epoch 49. Evaluation step 0
+2021-08-09 21:16:11,727 - INFO - Evaluation Epoch 49 has completed. Time: 8.31681752204895
+2021-08-09 21:16:11,772 - INFO - Model was saved in ./pipeline/out/supervised_only/A_epoch_49

@@ -1,0 +1,6 @@
+2021-08-26 12:02:01,951 - INFO - logger set up
+2021-08-26 12:02:01,957 - INFO - Model not found in ./pipeline/out/supervised_bias_1. Starting to train a model from scratch...
+2021-08-26 12:02:04,366 - INFO - [2.4084815979003906 s] Predict step 0
+2021-08-26 12:02:06,766 - INFO - [4.808252334594727 s] Predict step 1
+2021-08-26 12:02:10,601 - INFO - [8.642999410629272 s] Predict step 2
+2021-08-26 12:02:10,601 - INFO - [8.643357038497925 s] Predict is completed

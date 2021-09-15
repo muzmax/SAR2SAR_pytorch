@@ -1,0 +1,6 @@
+2021-08-26 12:04:00,122 - INFO - logger set up
+2021-08-26 12:04:00,191 - INFO - Model found with phase A at epoch 49...
+2021-08-26 12:04:02,591 - INFO - [2.4004573822021484 s] Predict step 0
+2021-08-26 12:04:04,982 - INFO - [4.790738821029663 s] Predict step 1
+2021-08-26 12:04:08,821 - INFO - [8.629512548446655 s] Predict step 2
+2021-08-26 12:04:08,821 - INFO - [8.630404233932495 s] Predict is completed

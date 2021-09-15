@@ -1,0 +1,28 @@
+2021-08-10 10:47:00,576 - INFO - logger set up
+2021-08-10 10:47:00,622 - INFO - Model found with phase A at epoch 49...
+2021-08-10 10:47:03,031 - INFO - [2.4082140922546387 s] Predict step 0
+2021-08-10 10:47:05,446 - INFO - [4.823519229888916 s] Predict step 1
+2021-08-10 10:47:05,447 - INFO - [4.824530124664307 s] Predict is completed
+2021-08-10 10:48:19,572 - INFO - logger set up
+2021-08-10 10:48:19,584 - INFO - Model found with phase A at epoch 49...
+2021-08-10 10:48:21,985 - INFO - [2.400616407394409 s] Predict step 0
+2021-08-10 10:48:24,404 - INFO - [4.819399118423462 s] Predict step 1
+2021-08-10 10:48:24,405 - INFO - [4.820927619934082 s] Predict is completed
+2021-08-10 10:57:37,139 - INFO - logger set up
+2021-08-10 10:57:37,154 - INFO - Model found with phase A at epoch 49...
+2021-08-10 10:57:39,560 - INFO - [2.40602970123291 s] Predict step 0
+2021-08-10 10:57:41,967 - INFO - [4.812506437301636 s] Predict step 1
+2021-08-10 10:57:45,811 - INFO - [8.657078742980957 s] Predict step 2
+2021-08-10 10:57:45,812 - INFO - [8.657544374465942 s] Predict is completed
+2021-08-10 11:23:37,414 - INFO - logger set up
+2021-08-10 11:23:37,431 - INFO - Model found with phase A at epoch 49...
+2021-08-10 11:23:39,826 - INFO - [2.3943607807159424 s] Predict step 0
+2021-08-10 11:23:42,230 - INFO - [4.798223495483398 s] Predict step 1
+2021-08-10 11:23:46,079 - INFO - [8.64750862121582 s] Predict step 2
+2021-08-10 11:23:46,079 - INFO - [8.647953271865845 s] Predict is completed
+2021-08-26 12:02:39,676 - INFO - logger set up
+2021-08-26 12:02:39,744 - INFO - Model found with phase A at epoch 49...
+2021-08-26 12:02:42,151 - INFO - [2.4060866832733154 s] Predict step 0
+2021-08-26 12:02:44,545 - INFO - [4.800489902496338 s] Predict step 1
+2021-08-26 12:02:48,376 - INFO - [8.631401538848877 s] Predict step 2
+2021-08-26 12:02:48,377 - INFO - [8.631746530532837 s] Predict is completed
