@@ -29,8 +29,3 @@ To train the network you have to :
  - network weights will be stored in 'pipeline/out/unsupervised'
  - in data/sample you will have a denoised version of eval images for each epoch
 
-## Other functions
-
-The fonction train_bias is a training version of the network with an aditional loss. The results aren't good.
-
-The function train_bias is a modified training version who isn't working because of pytorch log function.
