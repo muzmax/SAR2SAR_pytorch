@@ -3,6 +3,17 @@
 This projet is an implementation in pytorch of SAR2SAR, a denoised deep neural network for SAR images denoising.
 The network was trained on TerraSAR-X images
 
+Authors and citation for the paper :
+@article{dalsasso2021sar2sar,
+  title={SAR2SAR: A semi-supervised despeckling algorithm for SAR images},
+  author={Dalsasso, Emanuele and Denis, Loic and Tupin, Florence},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={14},
+  pages={4321--4329},
+  year={2021},
+  publisher={IEEE}
+}
+
 To run this code you must have :
 - Pytorch
 - numpy
